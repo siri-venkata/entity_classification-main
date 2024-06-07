@@ -1,0 +1,8 @@
+SELECT ?item
+WHERE 
+{
+  ?item wdt:P106 wd:Q82955.
+  ?item wdt:P39 ?position.
+  ?position wdt:P31* ?class.
+  ?class wdt:P279* wd:__/\__. 
+}

@@ -1,0 +1,10 @@
+SELECT ?item
+WHERE 
+{
+  ?item wdt:P31 wd:Q4830453.
+  ?item wdt:P452 ?industry.
+  ?industry wdt:P279* wd:Q2151621.
+  FILTER NOT EXISTS {?industry wdt:P279* wd:Q4318084. }
+
+}
+LIMIT 50000

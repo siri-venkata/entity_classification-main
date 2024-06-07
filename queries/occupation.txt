@@ -1,0 +1,8 @@
+SELECT ?item 
+WHERE 
+{
+  ?item wdt:P106 ?occupation.
+  ?occupation wdt:P31* ?class.
+  ?class wdt:P279* wd:__/\__. 
+}
+LIMIT 50000

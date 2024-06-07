@@ -1,0 +1,1106 @@
+tag,file,entity,A,B,C,D,E,F,G,H
+Doctor,occupation.txt,Q39631,Physician,,,,,,,
+Nurse,occupation.txt,Q186360,,,,,,,,
+Pharmacist,occupation.txt,Q105186,,,,,,,,
+Dentist,occupation.txt,Q27349,,,,,,,,
+Surgeon,occupation.txt,Q774306,,,,,,,,
+Psychiatrist,occupation.txt,Q211346,,,,,,,,
+Cardiologist,occupation.txt,Q3264451,,,,,,,,
+Pediatrician,occupation.txt,Q1919436,,,,,,,,
+Dermatologist,occupation.txt,Q2447386,,,,,,,,
+Engineer,occupation.txt,Q81096,,,,,,,,
+Civil Engineer,occupation.txt,Q13582652,,,,,,,,
+Mechanical Engineer,occupation.txt,Q1906857,,,,,,,,
+Electrical Engineer,occupation.txt,Q1326886,,,,,,,,
+Software Engineer,occupation.txt,Q1709010,,,,,,,,
+Chemical Engineer,occupation.txt,Q7888586,,,,,,,,
+Aerospace Engineer,occupation.txt,Q10497074,,,,,,,,
+Politician,occupation.txt,Q82955,,,,,,,,
+President,politician.txt,Q30461,,,,,,,,
+Prime Minister,politician.txt,Q14212,,,,,,,,
+Senator,politician.txt,Q15686806,,,,,,,,
+Governor,politician.txt,Q132050,,,,,,,,
+Mayor,politician.txt,Q30185,,,,,,,,
+Councilor,politician.txt,Q708492,,,,,,,,
+Diplomat,politician.txt,Q193391,,,,,,,,
+Ambassador,politician.txt,Q121998,,,,,,,,
+Actor,occupation.txt,Q33999,,,,,,,,
+Singer,occupation.txt,Q177220,,,,,,,,
+Dancer,occupation.txt,Q5716684,,,,,,,,
+Musician,occupation.txt,Q639669,,,,,,,,
+Comedian,occupation.txt,Q245068,,,,,,,,
+Painter,occupation.txt,Q1028181,,,,,,,,
+Sculptor,occupation.txt,Q9286,,,,,,,,
+Photographer,occupation.txt,Q33231,,,,,,,,
+Illustrator,occupation.txt,Q644687,,,,,,,,
+Printmaker,occupation.txt,Q11569986,,,,,,,,
+Author,occupation.txt,Q482980,,,,,,,,
+Poet,occupation.txt,Q49757,,,,,,,,
+Playwright,occupation.txt,Q214917,,,,,,,,
+Screenwriter,occupation.txt,Q28389,,,,,,,,
+Journalist,occupation.txt,Q1930187,,,,,,,,
+Director,occupation.txt,Q3455803,,,,,,,,
+Producer,occupation.txt,Q3282637,,,,,,,,
+Cinematographer,occupation.txt,Q222344,,,,,,,,
+Editor,occupation.txt,Q7042855+Q23016178,,,,,,,,
+Architect,occupation.txt,Q42973,,,,,,,,
+Fashion Designer,occupation.txt,Q3501317,,,,,,,,
+Graphic Designer,occupation.txt,Q627325,,,,,,,,
+Interior Designer,occupation.txt,Q2133309,,,,,,,,
+Jeweler,occupation.txt,Q336221,,,,,,,,
+Potter,occupation.txt,Q3400050,,,,,,,,
+Woodworker,occupation.txt,Q15977971,,,,,,,,
+Glassblower,occupation.txt,Q12184432,glassmaker,,,,,,,
+Footballer,occupation.txt,Q937857,,,,,,,,
+Basketball Player,occupation.txt,Q3665646,,,,,,,,
+Cricket Player,occupation.txt,Q12299841,,,,,,,,
+Baseball Player,occupation.txt,Q10871364,,,,,,,,
+Rugby Player,occupation.txt,Q13415036,,,,,,,,
+Tennis Player,occupation.txt,Q10833314,,,,,,,,
+Golfer,occupation.txt,Q11303721,,,,,,,,
+Swimmer,occupation.txt,Q10843402,,,,,,,,
+Gymnast,occupation.txt,Q16947675,,,,,,,,
+Cyclist,occupation.txt,Q2125610,,,,,,,,
+Sprinter,occupation.txt,Q4009406,,,,,,,,
+Long Jumper,occupation.txt,Q13381428,,,,,,,,
+High Jumper,occupation.txt,Q13382122,,,,,,,,
+Marathon Runner,occupation.txt,Q13382460,,,,,,,,
+Discus Thrower,occupation.txt,Q13381689,,,,,,,,
+Boxer,occupation.txt,Q11338576,,,,,,,,
+Martial Artist,occupation.txt,Q11124885,,,,,,,,
+Wrestler,occupation.txt,Q27978698,,,,,,,,
+Surfer,occupation.txt,Q13561328,,,,,,,,
+Swimmer,occupation.txt,Q10843402,,,,,,,,
+Diver,occupation.txt,Q16004431,,,,,,,,
+Rowing Athlete,occupation.txt,Q13382576,rower,,,,,,,
+Skier,occupation.txt,Q4270517,,,,,,,,
+Snowboarder,occupation.txt,Q15709642,,,,,,,,
+Ice Skater,occupation.txt,Q9394993,,,,,,,,
+Bobsledder,occupation.txt,Q13383011,,,,,,,,
+Rock Climber,occupation.txt,Q3951423,,,,,,,,
+Skydiver,occupation.txt,Q6060450,,,,,,,,
+Surfer,occupation.txt,Q13561328,,,,,,,,
+Biologist,occupation.txt,Q864503,,,,,,,,
+Geneticist,occupation.txt,Q3126128,,,,,,,,
+Zoologist,occupation.txt,Q350979,,,,,,,,
+Botanist,occupation.txt,Q2374149,,,,,,,,
+Physicist,occupation.txt,Q169470,,,,,,,,
+Chemist,occupation.txt,Q593644,,,,,,,,
+Astronomer,occupation.txt,Q11063,,,,,,,,
+Geologist,occupation.txt,Q520549,,,,,,,,
+Mathematician,occupation.txt,Q170790,,,,,,,,
+Statistician,occupation.txt,Q2732142,,,,,,,,
+Computer Scientist,occupation.txt,Q82594,,,,,,,,
+Data Scientist,occupation.txt,Q29169143,,,,,,,,
+Software Developer,occupation.txt,Q5482740,,,,,,,,
+Sociologist,occupation.txt,Q2306091,,,,,,,,
+Psychologist,occupation.txt,Q212980,,,,,,,,
+Economist,occupation.txt,Q188094,,,,,,,,
+Anthropologist,occupation.txt,Q4773904,,,,,,,,
+Professor,position.txt,Q121594,,,,,,,,
+Researcher,occupation.txt,Q1650915,,,,,,,,
+Lecturer,occupation.txt,Q1569495,,,,,,,,
+Educational Administrator,occupation.txt,Q21281706,academic administrator,,,,,,,
+Teacher,occupation.txt,Q2251335,school teacher,,,,,,,
+Principal,occupation.txt,Q1056391,head teacher,,,,,,,
+Counselor,occupation.txt,Q2250054,,,,,,,,
+Librarian,occupation.txt,Q119081763,,,,,,,,
+Private Tutor,,,,,,,,,,
+Online Tutor,,,,,,,,,,
+CEO,position.txt,Q484876,,,,,,,,
+Entrepreneur,plain_occupation.txt,Q131524,,,,,,,,
+Executive,plain_occupation.txt,Q2961975,business executive,,,,,,,
+Business Consultant,plain_occupation.txt,Q16849727,,,,,,,,
+Accountant,plain_occupation.txt,Q326653,,,,,,,,
+Financial Analyst,occupation.txt,Q1416279,,,,,,,,
+Investment Banker,occupation.txt,Q2883465,,,,,,,,
+Financial Planner,occupation.txt,Q1089801,,,,,,,,
+Marketing Manager,occupation.txt,Q88206817,,,,,,,,
+Market Researcher,occupation.txt,Q19768301,,,,,,,,
+Brand Manager,occupation.txt,Q11798659,,,,,,,,
+Digital Marketer,occupation.txt,Q89432399,,,,,,,,
+Sales Manager,occupation.txt,Q64155861,,,,,,,,
+Sales Representative,occupation.txt,Q115776682,,,,,,,,
+HR Manager,occupation.txt,Q12856933,,,,,,,,
+Recruiter,occupation.txt,Q2072298,,,,,,,,
+Management Consultant,occupation.txt,Q27827744,,,,,,,,
+IT Consultant,occupation.txt,Q20031249,,,,,,,,
+Real Estate Agent,occupation.txt,Q519076,,,,,,,,
+Property Manager,occupation.txt,Q7250245,,,,,,,,
+Journalist,occupation.txt,Q1930187,,,,wd:Journalist,,,wd,Q1930187
+News Anchor,occupation.txt,Q270389,,,,wd:News Anchor,,,wd,Q270389
+Reporter,occupation.txt,Q42909,,,,wd:Reporter,,,wd,Q42909
+Correspondent,occupation.txt,Q1155838,,,,wd:Correspondent,,,wd,Q1155838
+TV Presenter,occupation.txt,Q947873,,,,wd:TV Presenter,,,wd,Q947873
+Radio Host,occupation.txt,Q2722764,,,,wd:Radio Host,,,wd,Q2722764
+Podcaster,occupation.txt,Q15077007,,,,wd:Podcaster,,,wd,Q15077007
+Columnist,occupation.txt,Q1086863,,,,wd:Columnist,,,wd,Q1086863
+Publication Editor,occupation.txt,Q1607826,,,,wd:Editor,,,wd,Q1607826
+Copywriter,occupation.txt,Q14466416,,,,wd:Copywriter,,,wd,Q14466416
+Social Media Influencer,occupation.txt,Q2906862,,,,wd:Social Media Influencer,,,wd,Q2906862
+Content Creator,occupation.txt,Q109459317,,,,wd:Content Creator,,,wd,Q109459317
+YouTuber,occupation.txt,Q17125263,,,,wd:YouTuber,,,wd,Q17125263
+PR Manager,occupation.txt,Q2957754,,,,wd:PR Manager,,,wd,Q2957754
+PR Specialist,occupation.txt,Q49176591,,,,wd:PR Specialist,,,wd,Q49176591
+Corporate Lawyer,occupation.txt,Q5172469,,,,wd:Corporate Lawyer,,,wd,Q5172469
+Criminal Defense Attorney,occupation.txt,Q512345,,,,wd:Criminal Defense Attorney,,,wd,Q512345
+Family Lawyer,occupation.txt,Q21402631,civil lawyer,,,wd:Family Lawyer,,,wd,Q21402631
+Immigration Lawyer,occupation.txt,Q14866863,international lawyer,,,wd:Immigration Lawyer,,,wd,Q14866863
+Judge,occupation.txt,Q16533,,,,wd:Judge,,,wd,Q16533
+Magistrate,occupation.txt,Q4594605,,,,wd:Magistrate,,,wd,Q4594605
+Justice of the Peace,occupation.txt,Q329455,,,,wd:Justice of the Peace,,,wd,Q329455
+Legal Consultant,occupation.txt,Q2664701,,,,wd:Legal Consultant,,,wd,Q2664701
+Paralegal,occupation.txt,Q620413,,,,wd:Paralegal,,,wd,Q620413
+Police Officer,occupation.txt,Q384593,,,,wd:Police Officer,,,wd,Q384593
+Detective,occupation.txt,Q842782,,,,wd:Detective,,,wd,Q842782
+FBI Agent,occupation.txt,Q105379199,,,,wd:FBI Agent,,,wd,Q105379199
+Customs Officer,occupation.txt,Q247797,,,,wd:Customs Officer,,,wd,Q247797
+Firefighter,occupation.txt,Q107711,,,,wd:Firefighter,,,wd,Q107711
+Paramedic,occupation.txt,Q330204,,,,wd:Paramedic,,,wd,Q330204
+Search and Rescue Specialist,,,,,,wd:Search and Rescue Specialist,,,wd,Search and Rescue
+Soldier,occupation.txt,Q4991371,,,,wd:Soldier,,,wd,Q4991371
+Officer,occupation.txt,Q189290,,,,wd:Officer,,,wd,Q189290
+General,occupation.txt,Q83460,,,,wd:General,,,wd,Q83460
+Navy SEAL,occupation.txt,Q178033,,,,wd:Navy SEAL,,,wd,Q178033
+Pilot,occupation.txt,Q2095549,,,,wd:Pilot,,,wd,Q2095549
+Flight Attendant,occupation.txt,Q101539,,,,wd:Flight Attendant,,,wd,Q101539
+Air Traffic Controller,occupation.txt,Q862632,,,,wd:Air Traffic Controller,,,wd,Q862632
+Chef,occupation.txt,Q3499072,,,,wd:Chef,,,wd,Q3499072
+Sous Chef,occupation.txt,Q3352171,,,,wd:Sous Chef,,,wd,Q3352171
+Pastry Chef,occupation.txt,Q1191511,,,,wd:Pastry Chef,,,wd,Q1191511
+Line Cook,occupation.txt,Q2962026,,,,wd:Line Cook,,,wd,Q2962026
+Baker,occupation.txt,Q160131,,,,wd:Baker,,,wd,Q160131
+Pastry Chef,occupation.txt,Q1191511,,,,wd:Pastry Chef,,,wd,Q1191511
+Restaurant Manager,occupation.txt,Q96093243,,,,wd:Restaurant Manager,,,wd,Q96093243
+Waiter - Waitress,occupation.txt,Q157195,,,,wd:Waiter/Waitress,,,wd,Q157195
+Bartender,occupation.txt,Q808266,,,,wd:Bartender,,,wd,Q808266
+Sommelier,occupation.txt,Q191493,,,,wd:Sommelier,,,wd,Q191493
+Mixologist,occupation.txt,Q20165053,,,,wd:Mixologist,,,wd,Q20165053
+Architect,occupation.txt,Q42973,,,,wd:Architect,,,wd,Q42973
+Construction Manager,occupation.txt,Q811459,,,,wd:Construction Manager,,,wd,Q811459
+Civil Engineer,occupation.txt,Q13582652,,,,wd:Civil Engineer,,,wd,Q13582652
+Driver,occupation.txt,Q352388,,,,wd:Driver,,,wd,Q352388
+Pilot,occupation.txt,Q2095549,,,,wd:Pilot,,,wd,Q2095549
+Captain,occupation.txt,Q849424,,,,wd:Captain,,,wd,Q849424
+Sailor,occupation.txt,Q45199,,,,wd:Sailor,,,wd,Q45199
+Farmer,occupation.txt,Q131512,,,,wd:Farmer,,,wd,Q131512
+Agricultural Scientist,occupation.txt,Q1781198,agronomist,,,wd:Agricultural Scientist,,,wd,Q1781198
+Carpenter,occupation.txt,Q154549,,,,wd:Carpenter,,,wd,Q154549
+Electrician,occupation.txt,Q165029,,,,wd:Electrician,,,wd,Q165029
+Plumber,occupation.txt,Q252924,,,,wd:Plumber,,,wd,Q252924
+Welder,occupation.txt,Q836328,,,,wd:Welder,,,wd,Q836328
+Entertainer,occupation.txt,Q138858,,,,wd:Entertainer,,,wd,Q138858
+Magician,occupation.txt,Q15855449,,,,wd:Magician,,,wd,Q15855449
+Circus Performer,occupation.txt,Q17307272,,,,wd:Circus Performer,,,wd,Q17307272
+Personal Trainer,occupation.txt,Q762121,,,,wd:Personal Trainer,,,wd,Q762121
+Yoga Instructor,occupation.txt,Q2600526,,,,wd:Yoga Instructor,,,wd,Q2600526
+Nutritionist,occupation.txt,Q2576499,,,,wd:Nutritionist,,,wd,Q2576499
+Game Developer,occupation.txt,Q58287519,,,,wd:Game Developer,,,wd,Q58287519
+Professional Gamer,occupation.txt,Q4379701,,,,wd:Professional Gamer,,,wd,Q4379701
+Social Worker,occupation.txt,Q7019111,,,,wd:Social Worker,,,wd,Q7019111
+Social Work Counselor,,,,,,wd:Counselor,,,wd,
+Environmental Scientist,occupation.txt,Q16529590,,,,wd:Environmental Scientist,,,wd,Q16529590
+Conservationist,occupation.txt,Q3578589,,,,wd:Conservationist,,,wd,Q3578589
+Priest,occupation.txt,Q42603,,,,wd:Priest,,,wd,Q42603
+Pastor,occupation.txt,Q152002,,,,wd:Pastor,,,wd,Q152002
+Imam,occupation.txt,Q125482,,,,wd:Imam,,,wd,Q125482
+Rabbi,occupation.txt,Q2796156,,,,wd:Rabbi,,,wd,Q2796156
+Fashion Designer,occupation.txt,Q3501317,,,,wd:Fashion Designer,,,wd,Q3501317
+Makeup Artist,occupation.txt,Q935666,,,,wd:Makeup Artist,,,wd,Q935666
+Hairstylist,occupation.txt,Q55187,,,,wd:Hairstylist,,,wd,Q55187
+Mechanic,occupation.txt,Q327029,,,,wd:Mechanic,,,wd,Q327029
+Auto Technician,occupation.txt,,,,,wd:Auto Technician,,,wd,
+Car Designer,occupation.txt,Q11295636,,,,wd:Car Designer,,,wd,Q11295636
+Sales Associate,occupation.txt,Q685433,,,,wd:Sales Associate,,,wd,Q685433
+Store Manager,occupation.txt,Q7501153,,,,wd:Store Manager,,,wd,Q7501153
+Publication Editor,occupation.txt,Q1607826,,,,wd:Editor,,,wd,
+Proofreader,,,,,,wd:Proofreader,,,wd,
+Literary Agent,, ,,,,wd:Literary Agent,,,wd, 
+Research Scientist,position.txt,Q105574528,,,,wd:Research Scientist,,,wd,Q105574528
+Lab Technician,occupation.txt,Q1483433,,,,wd:Lab Technician,,,wd,Q1483433
+Conglomerate,isinstance.txt,Q778575,,,,wd:Conglomerate,,,wd,Q778575
+Corporation,isinstance.txt,Q167037,,,,wd:Corporation,,,wd,Q167037
+Startup,isinstance.txt,Q129238,,,,wd:Startup,,,wd,Q129238
+Small Business,isinstance.txt,Q1109680,,,,wd:Small Business,,,wd,Q1109680
+Bank,isinstance.txt,Q22687,,,,wd:Bank,,,wd,Q22687
+Insurance Company,isinstance.txt,Q2143354,,,,wd:Insurance Company,,,wd,Q2143354
+Investment Firm,isinstance.txt,Q1752459,,,,wd:Investment Firm,,,wd,Q1752459
+Accounting Firm,isinstance.txt,Q4072395,,,,wd:Accounting Firm,,,wd,Q4072395
+Supermarket,isinstance.txt,Q180846,,,,wd:Supermarket,,,wd,Q180846
+Department Store,isinstance.txt,Q216107,,,,wd:Department Store,,,wd,Q216107
+E-commerce,isinstance.txt,Q484847 ,,,,wd:E-commerce,,,wd,Q484847 
+Franchise,isinstanceclass.txt,Q65553774,chain,,,wd:Franchise,,,wd,Q65553774
+Hotel,isinstanceclass.txt,Q27686,,,,wd:Hotel,,,wd,Q27686
+Restaurant,isinstanceclass.txt,Q11707,,,,wd:Restaurant,,,wd,Q11707
+Catering Company,,,,,,wd:Catering Company,,,wd,
+Resort,isinstanceclass.txt,Q875157,,,,wd:Resort,,,wd,Q875157
+Automotive,industrybusiness.txt,Q190117,,,,wd:Automotive,,,wd,Q190117
+Electronics,industrybusiness.txt,Q5358497,,,,wd:Electronics,,,wd,Q5358497
+Pharmaceutical,industrybusiness.txt,Q507443 ,,,,wd:Pharmaceutical,,,wd,Q507443 
+Food Processing,industrybusiness.txt,Q58194573,,,,wd:Food Processing,,,wd,Q58194573
+Software,industrybusiness.txt,Q880371,,,,wd:Software,,,wd,Q880371
+Hardware,industrybusiness.txt,Q3966,,,,wd:Hardware,,,wd,Q3966
+Internet,industrybusiness.txt,Q56611700,,,,wd:Internet,,,wd,Q56611700
+Telecommunications,industrybusiness.txt,Q25245117,,,,wd:Telecommunications,,,wd,Q25245117
+Broadcasting,industrybusiness.txt,Q15078788,,,,wd:Broadcasting,,,wd,Q15078788
+Publishing,isinstance.txt,Q2085381,publisher,,,wd:Publishing,,,wd,Q2085381
+Film Production,isinstance.txt,Q375336,film studio,,,wd:Film Production,,,wd,Q375336
+News Agency,isinstance.txt,Q192283,,,,wd:News Agency,,,wd,Q192283
+Oil & Gas,industryclassbusiness.txt,Q4318084 ,petroleum gas industry,,,wd:Oil & Gas,,,wd,Q4318084 
+Renewable Energy,alternatives.txt,Q12705,alternate energy,,,wd:Renewable Energy,,,wd,Q12705
+Utilities,,,,,,wd:Utilities,,,wd,
+Airlines,isinstance.txt,Q46970,,,,wd:Airlines,,,wd,Q46970
+Shipping,isinstance.txt,Q1807108,,,,wd:Shipping,,,wd,Q1807108
+Logistics,isinstance.txt,Q1468664,,,,wd:Logistics,,,wd,Q1468664
+Public Transportation,isinstance.txt,Q178512,,,,wd:Public Transportation,,,wd,Q178512
+School,isinstance.txt,Q3914,,,,wd:School,,,wd,Q3914
+University,isinstance.txt,Q3918,,,,wd:University,,,wd,Q3918
+Research Institute,isinstance.txt,Q31855,,,,wd:Research Institute,,,wd,Q31855
+Training Center,isinstance.txt,Q11631078,,,,wd:Training Center,,,wd,Q11631078
+Consulting,isinstance.txt,Q2089936,,,,wd:Consulting,,,wd,Q2089936
+Non-Profit,isinstance.txt,Q163740,,,,wd:Non-Profit,,,wd,Q163740
+Government Agency,isinstance.txt,Q327333,,,,wd:Government Agency,,,wd,Q327333
+International Organization,isinstance.txt,Q484652,,,,wd:International Organization,,,wd,Q484652
+Military,isinstance.txt,Q8473,,,,wd:Military,,,wd,Q8473
+Law Enforcement,isinstance.txt,Q44554,,,,wd:Law Enforcement,,,wd,Q44554
+Public Service,isinstance.txt,,,,,wd:Public Service,,,wd,
+Sports League,isinstance.txt,Q623109,,,,wd:Sports League,,,wd,Q623109
+Sports Team,isinstance.txt,Q12973014,,,,wd:Sports Team,,,wd,Q12973014
+Sports Association,isinstance.txt,Q2485448,,,,wd:Sports Association,,,wd,Q2485448
+Fitness Center,isinstance.txt,Q1065656,,,,wd:Fitness Center,,,wd,Q1065656
+Broadcast Network,industrybusiness.txt,Q15078788,Broadcasting,,,wd:Broadcast Network,,,wd,Q141683
+News Agency,isinstance.txt,Q192283,,,,wd:News Agency,,,wd,Q192283
+Publishing Company,isinstance.txt,Q2085381,publisher,,,wd:Publishing Company,,,wd,Q2085381
+Digital Media,,,,,,wd:Digital Media,,,wd,
+Religious Organization,isinstanceclass.txt,Q1530022,,,,wd:Religious Organization,,,wd,Q1530022
+Place of Worship,isinstanceclass.txt,Q1370598,structure of worship,,,wd:Place of Worship,,,wd,Q1370598
+School,isinstance.txt,Q3914,,,,wd:School,,,wd,Q3914
+University,isinstance.txt,Q3918,,,,wd:University,,,wd,Q3918
+Educational Institution,isinstance.txt,Q2385804,,,,wd:Educational Institution,,,wd,Q2385804
+Political Party,isinstance.txt,Q7278,,,,wd:Political Party,,,wd,Q7278
+Government Organization,isinstance.txt,Q2659904,,,,wd:Government Organization,,,wd,Q2659904
+Campaign Organization,,,,,,wd:Campaign Organization,,,wd,
+Hospital,isinstance.txt,Q16917,,,,wd:Hospital,,,wd,Q16917
+Healthcare Provider,isinstance.txt,Q55645123,,,,wd:Healthcare Provider,,,wd,Q55645123
+Medical Research Institute,isinstance.txt,Q66737615,,,,wd:Medical Research Institute,,,wd,Q66737615
+Pharmaceutical Company,industrybusiness.txt,Q507443 ,Pharmaceutical,,,wd:Pharmaceutical Company,,,wd,Q19644607
+Non-profit Organization,isinstance.txt,Q163740,Non-Profit,,,wd:Non-profit Organization,,,wd,Q163740
+Community Organization,isinstance.txt,Q3269648,,,,wd:Community Organization,,,wd,Q3269648
+Charity Organization,isinstance.txt,Q708676,,,,wd:Charity Organization,,,wd,Q708676
+Art Organization,isinstance.txt,Q20897549,,,,wd:Art Organization,,,wd,Q20897549
+Museum,isinstance.txt,Q33506,,,,wd:Museum,,,wd,Q33506
+Theater Company,isinstance.txt,Q11812394,,,,wd:Theater Company,,,wd,Q11812394
+Performing Arts Center,isinstance.txt,Q3469910,,,,wd:Performing Arts Center,,,wd,Q3469910
+Trade Association,isinstance.txt,Q2178147,,,,wd:Trade Association,,,wd,Q2178147
+Professional Association,isinstance.txt,Q829080,,,,wd:Professional Association,,,wd,Q829080
+Chamber of Commerce,isinstance.txt,Q897399,,,,wd:Chamber of Commerce,,,wd,Q897399
+Conservation Organization,isinstance.txt,Q1899015,,,,wd:Conservation Organization,,,wd,Q1899015
+Environmental Agency,isinstance.txt,Q1785733,,,,wd:Environmental Agency,,,wd,Q1785733
+Software Company,industrybusiness.txt,Q880371,Software,,,wd:Software Company,,,wd,Q1058914
+Hardware Company,industrybusiness.txt,Q3966,Hardware,,,wd:Hardware Company,,,wd,Q3966
+Telecommunications Company,industrybusiness.txt,Q25245117,Telecommunications,,,wd:Telecommunications Company,,,wd,Q1266169
+Research Institute,isinstance.txt,Q31855,,,,wd:Research Institute,,,wd,Q31855
+Think Tank,isinstance.txt,Q155271,,,,wd:Think Tank,,,wd,Q155271
+Academic Research Group,isinstance.txt,Q28863779,,,,wd:Academic Research Group,,,wd,Q28863779
+Continent,isinstance.txt,Q5107,,,,wd:Continent,,,wd,Q5107
+Country,isinstance.txt,Q6256,,,,wd:Country,,,wd,Q6256
+Region,isinstance.txt,Q82794,,,,wd:Region,,,wd,Q82794
+State,isinstance.txt,Q7275,,,,wd:State,,,wd,Q7275
+Province,isinstance.txt,Q34876,,,,wd:Province,,,wd,Q34876
+County,isinstance.txt,Q28575,,,,wd:County,,,wd,Q28575
+District,isinstance.txt,Q149621,,,,wd:District,,,wd,Q149621
+City,isinstance.txt,Q515,,,,wd:City,,,wd,Q515
+Town,isinstance.txt,Q3957,,,,wd:Town,,,wd,Q3957
+Village,isinstance.txt,Q532,,,,wd:Village,,,wd,Q532
+Neighborhood,isinstance.txt,Q123705,,,,wd:Neighborhood,,,wd,Q123705
+Street,isinstance.txt,Q79007,,,,wd:Street,,,wd,Q79007
+Mountain,isinstance.txt,Q8502,,,,wd:Mountain,,,wd,Q8502
+Hill,isinstance.txt,Q54050,,,,wd:Hill,,,wd,Q54050
+Valley,isinstance.txt,Q39816,,,,wd:Valley,,,wd,Q39816
+Plateau,isinstance.txt,Q75520,,,,wd:Plateau,,,wd,Q75520
+Canyon,isinstance.txt,Q150784,,,,wd:Canyon,,,wd,Q150784
+Island,isinstance.txt,Q23442,,,,wd:Island,,,wd,Q23442
+Archipelago,isinstance.txt,Q33837,,,,wd:Archipelago,,,wd,Q33837
+Peninsula,isinstance.txt,Q34763,,,,wd:Peninsula,,,wd,Q34763
+Cape,isinstance.txt,Q185113,,,,wd:Cape,,,wd,Q185113
+Lake,isinstance.txt,Q23397,,,,wd:Lake,,,wd,Q23397
+River,isinstance.txt,Q4022,,,,wd:River,,,wd,Q4022
+Waterfall,isinstance.txt,Q34038,,,,wd:Waterfall,,,wd,Q34038
+Glacier,isinstance.txt,Q35666,,,,wd:Glacier,,,wd,Q35666
+Ocean,isinstance.txt,Q9430,,,,wd:Ocean,,,wd,Q9430
+Sea,isinstance.txt,Q165,,,,wd:Sea,,,wd,Q165
+Gulf,isinstance.txt,Q1322134,,,,wd:Gulf,,,wd,Q1322134
+Bay,isinstance.txt,Q39594,,,,wd:Bay,,,wd,Q39594
+Strait,isinstance.txt,Q37901,,,,wd:Strait,,,wd,Q37901
+Lake,isinstance.txt,Q23397,,,,wd:Lake,,,wd,Q23397
+River,isinstance.txt,Q4022,,,,wd:River,,,wd,Q4022
+Canal,isinstance.txt,Q12284,,,,wd:Canal,,,wd,Q12284
+Waterfall,isinstance.txt,Q34038,,,,wd:Waterfall,,,wd,Q34038
+Fjord,isinstance.txt,Q45776,,,,wd:Fjord,,,wd,Q45776
+Building,isinstance.txt,Q41176,,,,wd:Building,,,wd,Q41176
+Bridge,isinstance.txt,Q12280,,,,wd:Bridge,,,wd,Q12280
+Tunnel,isinstance.txt,Q44377,,,,wd:Tunnel,,,wd,Q44377
+Monument,isinstance.txt,Q4989906,,,,wd:Monument,,,wd,Q4989906
+Park,isinstance.txt,Q22698,,,,wd:Park,,,wd,Q22698
+Garden,isinstance.txt,Q1107656,,,,wd:Garden,,,wd,Q1107656
+Plaza,isinstance.txt,Q174782,,,,wd:Plaza,,,wd,Q174782
+Square,isinstance.txt,Q174782,,,,wd:Square,,,wd,Q174782
+Cemetery,isinstance.txt,Q39614,,,,wd:Cemetery,,,wd,Q39614
+Airport,isinstance.txt,Q1248784,,,,wd:Airport,,,wd,Q1248784
+Port,isinstance.txt,Q44782,,,,wd:Port,,,wd,Q44782
+Train Station,isinstance.txt,Q55488,,,,wd:Train Station,,,wd,Q55488
+Bus Station,isinstance.txt,Q494829,,,,wd:Bus Station,,,wd,Q494829
+Subway Station,isinstance.txt,Q928830,,,,wd:Subway Station,,,wd,Q928830
+Highway,isinstance.txt,Q269949,,,,wd:Highway,,,wd,Q269949
+Road,isinstance.txt,Q34442,,,,wd:Road,,,wd,Q34442
+Street,isinstance.txt,Q79007,,,,wd:Street,,,wd,Q79007
+Lane,isinstance.txt,Q3222002,,,,wd:Lane,,,wd,Q3222002
+Alley,isinstance.txt,Q1251403,,,,wd:Alley,,,wd,Q1251403
+Avenue,isinstance.txt,Q7543083,,,,wd:Avenue,,,wd,Q7543083
+Boulevard,isinstance.txt,Q54114,,,,wd:Boulevard,,,wd,Q54114
+Market,isinstance.txt,Q132510,,,,wd:Market,,,wd,Q132510
+Shopping Mall,isinstance.txt,Q31374404,,,,wd:Shopping Mall,,,wd,Q31374404
+Hotel,isinstance.txt,Q27686,,,,wd:Hotel,,,wd,Q27686
+Resort,isinstance.txt,Q875157,,,,wd:Resort,,,wd,Q875157
+Hospital,isinstance.txt,Q16917,,,,wd:Hospital,,,wd,Q16917
+School,isinstance.txt,Q3914,,,,wd:School,,,wd,Q3914
+University,isinstance.txt,Q3918,,,,wd:University,,,wd,Q3918
+Library,isinstance.txt,Q7075,,,,wd:Library,,,wd,Q7075
+Museum,isinstance.txt,Q33506,,,,wd:Museum,,,wd,Q33506
+Stadium,isinstance.txt,Q483110,,,,wd:Stadium,,,wd,Q483110
+Theater,isinstance.txt,Q24354,,,,wd:Theater,,,wd,Q24354
+Cinema,isinstance.txt,Q41253,,,,wd:Cinema,,,wd,Q41253
+Restaurant,isinstance.txt,Q11707,,,,wd:Restaurant,,,wd,Q11707
+Cafe,isinstance.txt,Q30022,,,,wd:Caf�,,,wd,Q30022
+Bar,isinstance.txt,Q187456,,,,wd:Bar,,,wd,Q187456
+Pub,isinstance.txt,Q212198,,,,wd:Pub,,,wd,Q212198
+Star,isinstance.txt,Q523,,,,wd:Star,,,wd,Q523
+Planet,isinstance.txt,Q634,,,,wd:Planet,,,wd,Q634
+Moon,isinstance.txt,Q405,,,,wd:Moon,,,wd,Q405
+Asteroid,isinstance.txt,Q3863,,,,wd:Asteroid,,,wd,Q3863
+Comet,isinstance.txt,Q3559,,,,wd:Comet,,,wd,Q3559
+Meteor,isinstance.txt,Q131136,,,,wd:Meteor,,,wd,Q131136
+Galaxy,isinstance.txt,Q318,,,,wd:Galaxy,,,wd,Q318
+Constellation,isinstance.txt,Q8928,,,,wd:Constellation,,,wd,Q8928
+Nebula,isinstance.txt,Q42372,,,,wd:Nebula,,,wd,Q42372
+Black Hole,isinstance.txt,Q589,,,,wd:Black Hole,,,wd,Q589
+Quasar,isinstance.txt,Q83373,,,,wd:Quasar,,,wd,Q83373
+Park,isinstance.txt,Q22698,,,,wd:Park,,,wd,Q22698
+Forest,isinstance.txt,Q4421,,,,wd:Forest,,,wd,Q4421
+Jungle,isinstance.txt,Q191086,,,,wd:Jungle,,,wd,Q191086
+Desert,isinstance.txt,Q8514,,,,wd:Desert,,,wd,Q8514
+Grassland,isinstance.txt,Q1006733,,,,wd:Grassland,,,wd,Q1006733
+Wetland,isinstance.txt,Q170321,,,,wd:Wetland,,,wd,Q170321
+Swamp,isinstance.txt,Q166735,,,,wd:Swamp,,,wd,Q166735
+Savanna,isinstance.txt,Q42320,,,,wd:Savanna,,,wd,Q42320
+Cave,isinstance.txt,Q35509,,,,wd:Cave,,,wd,Q35509
+Canyon,isinstance.txt,Q150784,,,,wd:Canyon,,,wd,Q150784
+Volcano,isinstance.txt,Q8072,,,,wd:Volcano,,,wd,Q8072
+Waterfall,isinstance.txt,Q34038,,,,wd:Waterfall,,,wd,Q34038
+Beach,isinstance.txt,Q40080,,,,wd:Beach,,,wd,Q40080
+Island,isinstance.txt,Q23442,,,,wd:Island,,,wd,Q23442
+Reef,isinstance.txt,Q184358,,,,wd:Reef,,,wd,Q184358
+Archipelago,isinstance.txt,Q33837,,,,wd:Archipelago,,,wd,Q33837
+Mountain Range,isinstance.txt,Q46831,,,,wd:Mountain Range,,,wd,Q46831
+Valley,isinstance.txt,Q39816,,,,wd:Valley,,,wd,Q39816
+Glacier,isinstance.txt,Q35666,,,,wd:Glacier,,,wd,Q35666
+Tundra,isinstance.txt,Q43262,,,,wd:Tundra,,,wd,Q43262
+Prairie,isinstance.txt,Q194281,,,,wd:Prairie,,,wd,Q194281
+Oasis,isinstance.txt,Q43742,,,,wd:Oasis,,,wd,Q43742
+Delta,isinstance.txt,Q43197,,,,wd:Delta,,,wd,Q43197
+Dune,isinstance.txt,Q25391,,,,wd:Dune,,,wd,Q25391
+Road,isinstance.txt,Q34442,,,,wd:Road,,,wd,Q34442
+Bridge,isinstance.txt,Q12280,,,,wd:Bridge,,,wd,Q12280
+Tunnel,isinstance.txt,Q44377,,,,wd:Tunnel,,,wd,Q44377
+Railway,isinstance.txt,Q22667,,,,wd:Railway,,,wd,Q22667
+Airport,isinstance.txt,Q1248784,,,,wd:Airport,,,wd,Q1248784
+Port,isinstance.txt,Q44782,,,,wd:Port,,,wd,Q44782
+Canal,isinstance.txt,Q12284,,,,wd:Canal,,,wd,Q12284
+Dam,isinstance.txt,Q12323,,,,wd:Dam,,,wd,Q12323
+Power Plant,isinstance.txt,Q159719,,,,wd:Power Plant,,,wd,Q159719
+Factory,isinstance.txt,Q83405,,,,wd:Factory,,,wd,Q83405
+Stadium,isinstance.txt,Q483110,,,,wd:Stadium,,,wd,Q483110
+Arena,isinstance.txt,Q641226,,,,wd:Arena,,,wd,Q641226
+Amusement Park,isinstance.txt,Q194195,,,,wd:Amusement Park,,,wd,Q194195
+Shopping Mall,isinstance.txt,Q31374404,,,,wd:Shopping Mall,,,wd,Q31374404
+Skyscraper,isinstance.txt,Q11303,,,,wd:Skyscraper,,,wd,Q11303
+Tower,isinstance.txt,Q12518,,,,wd:Tower,,,wd,Q12518
+Monument,isinstance.txt,Q4989906,,,,wd:Monument,,,wd,Q4989906
+Building,isinstance.txt,Q41176,,,,wd:Building,,,wd,Q41176
+House,isinstance.txt,Q3947,,,,wd:House,,,wd,Q3947
+Apartment Building,isinstance.txt,Q13402009,,,,wd:Apartment Building,,,wd,Q13402009
+Condominium,isinstance.txt,Q161851,,,,wd:Condominium,,,wd,Q161851
+Villa,isinstance.txt,Q3950,,,,wd:Villa,,,wd,Q3950
+Townhouse,isinstance.txt,Q1202402,,,,wd:Townhouse,,,wd,Q1202402
+Office Building,isinstance.txt,Q1021645,,,,wd:Office Building,,,wd,Q1021645
+Retail Store,isinstance.txt,Q57334497,,,,wd:Retail Store,,,wd,Q57334497
+Hotel,isinstance.txt,Q27686,,,,wd:Hotel,,,wd,Q27686
+Restaurant,isinstance.txt,Q11707,,,,wd:Restaurant,,,wd,Q11707
+Cinema,isinstance.txt,Q41253,,,,wd:Cinema,,,wd,Q41253
+Theater,isinstance.txt,Q24354,,,,wd:Theater,,,wd,Q24354
+Shopping Mall,isinstance.txt,Q31374404,,,,wd:Shopping Mall,,,wd,Q31374404
+School,isinstance.txt,Q3914,,,,wd:School,,,wd,Q3914
+University,isinstance.txt,Q3918,,,,wd:University,,,wd,Q3918
+Library,isinstance.txt,Q7075,,,,wd:Library,,,wd,Q7075
+Hospital,isinstance.txt,Q16917,,,,wd:Hospital,,,wd,Q16917
+Museum,isinstance.txt,Q33506,,,,wd:Museum,,,wd,Q33506
+Government Building,isinstance.txt,Q16831714,,,,wd:Government Building,,,wd,Q16831714
+Prison,isinstance.txt,Q40357,,,,wd:Prison,,,wd,Q40357
+Church,isinstance.txt,Q16970,,,,wd:Church,,,wd,Q16970
+Mosque,isinstance.txt,Q32815,,,,wd:Mosque,,,wd,Q32815
+Synagogue,isinstance.txt,Q34627,,,,wd:Synagogue,,,wd,Q34627
+Temple,isinstance.txt,Q44539,,,,wd:Temple,,,wd,Q44539
+Cave,isinstance.txt,Q35509,,,,wd:Cave,,,wd,Q35509
+Tunnel,isinstance.txt,Q44377,,,,wd:Tunnel,,,wd,Q44377
+Subway,isinstance.txt,Q5503,,,,wd:Subway,,,wd,Q5503
+Bunker,isinstance.txt,Q91122,,,,wd:Bunker,,,wd,Q91122
+Bakery,rsubclassof.txt,Q115753731+Q26995321,,,,wd:Bakery,,,wd:,Q115753731+Q26995321
+Dairy Products,rsubclassof.txt,Q185217,,,,wd:Dairy Products,,,wd,Q185217
+Snacks,rsubclassof.txt,Q749316,,,,wd:Snacks,,,wd,Q749316
+Beverages,rsubclassof.txt,Q40050,,,,wd:Beverages,,,wd,Q40050
+Canned Food,rsubclassof.txt,Q12372738,,,,wd:Canned Food,,,wd,Q12372738
+Frozen Food,rsubclassof.txt,Q751728,,,,wd:Frozen Food,,,wd,Q751728
+Confectionery,rsubclassof.txt,Q5159627,,,,wd:Confectionery,,,wd,Q5159627
+Spices and Seasonings,rsubclassof.txt,Q56147276,,,,wd:Spices and Seasonings,,,wd,Q56147276
+Baby Food,rsubclassof.txt,Q797971,,,,wd:Baby Food,,,wd,Q797971
+Cosmetics,rsubclassof.txt,Q131207,,,,wd:Cosmetics,,,wd,Q131207
+Skincare,rsubclassof.txt,Q107391148,,,,wd:Skincare,,,wd,Q107391148
+Haircare,rsubclassof.txt,Q50430027 ,,,,wd:Haircare,,,wd,Q50430027 
+Oral Care,rsubclassof.txt,Q117207518,,,,wd:Oral Care,,,wd,Q117207518
+Bath and Body,rsubclassof.txt,Q10528974,personal hygiene item,,,wd:Bath and Body,,,wd,Q10528974
+Fragrances,rsubclassof.txt,Q15043636,,,,wd:Fragrances,,,wd,
+Hygiene Products,rsubclassof.txt,Q10528974,personal hygiene item,,,wd:Hygiene Products,,,wd,Q10528974
+Cleaning Products,rsubclassof.txt,Q1974312,,,,wd:Cleaning Products,,,wd,Q1974312
+Laundry Care,,,,,,wd:Laundry Care,,,wd,
+Air Fresheners,rsubclassof.txt,Q2419566,,,,wd:Air Fresheners,,,wd,Q2419566
+Dishwashing Products,rsubclassof.txt,Q1974312,,,,wd:Dishwashing Products,,,wd,Q1974312
+Insecticides,rsubclassof.txt,Q181322,,,,wd:Insecticides,,,wd,Q181322
+Household Supplies,rsubclassof.txt,Q115922519,,,,wd:Household Supplies,,,wd,Q115922519
+Mobile Phones,rsubclassof.txt,Q17517,,,,wd:Mobile Phones,,,wd,Q17517
+Televisions,rsubclassof.txt,Q289,,,,wd:Televisions,,,wd,Q289
+Audio Devices,rsubclassof.txt,Q1718024,sound transducer,,,wd:Audio Devices,,,wd,Q1718024
+Cameras,rsubclassof.txt,Q15328,,,,wd:Cameras,,,wd,Q15328
+Gaming Consoles,rsubclassof.txt,Q8076,,,,wd:Gaming Consoles,,,wd,Q8076
+Smart Home Devices,rsubclassof.txt,Q11253473,smart device,,,wd:Smart Home Devices,,,wd,Q11253473
+Home Appliances,rsubclassof.txt,Q212920,,,,wd:Home Appliances,,,wd,Q212920
+Smartwatches,rsubclassof.txt,Q5362345,,,,wd:Smartwatches,,,wd,Q5362345
+Fitness Trackers,rsubclassof.txt,Q16001686,,,,wd:Fitness Trackers,,,wd,Q16001686
+Headphones,rsubclassof.txt,Q186819,,,,wd:Headphones,,,wd,Q186819
+Earphones,rsubclassof.txt,Q30090726,,,,wd:Earphones,,,wd,Q30090726
+Portable Speakers,rsubclassof.txt,Q30090726,bluetooth speaker,,,wd:Portable Speakers,,,wd,Q30090726
+Clothing,rsubclassof.txt,Q11460,,,,wd:Clothing,,,wd,Q11460
+Footwear,rsubclassof.txt,Q161928,,,,wd:Footwear,,,wd,Q161928
+Accessories,rsubclassof.txt,Q1065579,,,,wd:Accessories,,,wd,Q1065579
+Jewelry,rsubclassof.txt,Q2142903,,,,wd:Jewelry,,,wd,Q2142903
+Bags and Luggage,rsubclassof.txt,Q1323314,bag,,,wd:Bags and Luggage,,,wd,Q1323314
+Eyewear,rsubclassof.txt,Q5422874,,,,wd:Eyewear,,,wd,Q5422874
+Watches,rsubclassof.txt,Q178794,,,,wd:Watches,,,wd,Q178794
+Furniture,rsubclassof.txt,Q14745,,,,wd:Furniture,,,wd,Q14745
+Home Decor,rsubclassof.txt,Q5888332,,,,wd:Home Decor,,,wd,Q5888332
+Kitchenware,rsubclassof.txt,Q1521410,,,,wd:Kitchenware,,,wd,Q1521410
+Bedding and Linens,rsubclassof.txt,Q796635,,,,wd:Bedding and Linens,,,wd,Q796635
+Gardening Tools,rsubclassof.txt,Q1494647,,,,wd:Gardening Tools,,,wd,Q1494647
+Home Improvement,,,,,,wd:Home Improvement,,,wd,
+Appliances,rsubclassof.txt,Q212920,,,,wd:Appliances,,,wd,Q212920
+Sporting Goods,rsubclassof.txt,Q768186,,,,wd:Sporting Goods,,,wd,Q768186
+Exercise Equipment,rsubclassof.txt,Q352222,,,,wd:Exercise Equipment,,,wd,Q352222
+Outdoor Gear,rsubclassof.txt,Q116951676,,,,wd:Outdoor Gear,,,wd,Q116951676
+Athletic Apparel,,,,,,wd:Athletic Apparel,,,wd,
+Sports Shoes,rsubclassof.txt,Q815554,,,,wd:Sports Shoes,,,wd,Q815554
+Fitness Accessories,,,,,,wd:Fitness Accessories,,,wd,
+Machinery,rsubclassof.txt,Q1882685,,,,wd:Machinery,,,wd,Q1882685
+Equipment,rsubclassof.txt,Q10273457,,,,wd:Equipment,,,wd,Q10273457
+Tools,rsubclassof.txt,Q89198120,,,,wd:Tools,,,wd,Q89198120
+Vehicles,rsubclassof.txt,Q42889,,,,wd:Vehicles,,,wd,Q42889
+Construction Materials,rsubclassof.txt,Q206615,,,,wd:Construction Materials,,,wd,Q206615
+Chemicals,rsubclassof.txt,Q79529,,,,wd:Chemicals,,,wd,Q79529
+Metals,rsubclassof.txt,Q11426,,,,wd:Metals,,,wd,Q11426
+Plastics,rsubclassof.txt,Q11474,,,,wd:Plastics,,,wd,Q11474
+Cars,rsubclassof.txt,Q1420,,,,wd:Cars,,,wd,Q1420
+Motorcycles,rsubclassof.txt,Q34493,,,,wd:Motorcycles,,,wd,Q34493
+Commercial Vehicles,rsubclassof.txt,Q580939,,,,wd:Commercial Vehicles,,,wd,Q580939
+Auto Parts,rsubclassof.txt,Q46765731,,,,wd:Auto Parts,,,wd,Q46765731
+Tires,rsubclassof.txt,Q169545,,,,wd:Tires,,,wd,Q169545
+Automotive Accessories,rsubclassof.txt,Q94739045,,,,wd:Accessories,,,wd,Q1065579
+Consumer Electronics,rsubclassof.txt,Q581105,,,,wd:Consumer Electronics,,,wd,Q581105
+Industrial Electronics,rsubclassof.txt,Q83800280,,,,wd:Industrial Electronics,,,wd,Q83800280
+Medical Devices,rsubclassof.txt,Q6554101,,,,wd:Medical Devices,,,wd,Q6554101
+Communication Devices,rsubclassof.txt,Q1780509,,,,wd:Communication Devices,,,wd,Q1780509
+Electronic Components,rsubclassof.txt,Q11653,,,,wd:Electronic Components,,,wd,Q11653
+Semiconductor Devices,rsubclassof.txt,Q175805,,,,wd:Semiconductor Devices,,,wd,Q175805
+Operating Systems,rsubclassof.txt,Q9135,,,,wd:Operating Systems,,,wd,Q9135
+Productivity Software,rsubclassof.txt,Q7247856,,,,wd:Productivity Software,,,wd,Q7247856
+Security Software,rsubclassof.txt,Q870898,,,,wd:Security Software,,,wd,Q870898
+Graphics and Design Software,rsubclassof.txt,Q868410,,,,wd:Graphics and Design Software,,,wd,Q868410
+Multimedia Software,rsubclassof.txt,Q15547961,,,,wd:Multimedia Software,,,wd,Q15547961
+Utility Software,rsubclassof.txt,Q312466,,,,wd:Utility Software,,,wd,Q312466
+Gaming Software,,,,,,wd:Gaming Software,,,wd,
+Books,rsubclassof.txt,Q571,,,,wd:Books,,,wd,Q571
+Movies,rsubclassof.txt,Q11424,,,,wd:Movies,,,wd,Q11424
+Music,rsubclassof.txt,Q638,,,,wd:Music,,,wd,Q638
+Video Games,rsubclassof.txt,Q7889,,,,wd:Video Games,,,wd,Q7889
+Toys and Games,rsubclassof.txt,Q11422,toy,,,wd:Toys and Games,,,wd,Q11422
+Board Games,rsubclassof.txt,Q131436,,,,wd:Board Games,,,wd,Q131436
+Collectibles,rsubclassof.txt,Q2342494,,,,wd:Collectibles,,,wd,Q2342494
+Pharmaceuticals,rsubclassof.txt,Q12140,,,,wd:Pharmaceuticals,,,wd,Q12140
+Dietary Supplements,rsubclassof.txt,Q645858,,,,wd:Dietary Supplements,,,wd,Q645858
+Fitness Products,,,,,,wd:Fitness Products,,,wd,
+Medical Equipment,rsubclassof.txt,Q6657015,,,,wd:Medical Equipment,,,wd,Q6657015
+Personal Health Products,,,,,,wd:Personal Health Products,,,wd:,
+Wellness Services,,,,,,wd:Wellness Services,,,wd:,
+Power Tools,rsubclassof.txt,Q1327701,,,,wd:Power Tools,,,wd,Q1327701
+Hand Tools,rsubclassof.txt,Q2578402,,,,wd:Hand Tools,,,wd,Q2578402
+Building Materials,rsubclassof.txt,Q206615,,,,wd:Building Materials,,,wd,Q206615
+Home Appliances,rsubclassof.txt,Q212920,,,,wd:Home Appliances,,,wd,Q212920
+Lighting Fixtures,rsubclassof.txt,Q815738,,,,wd:Lighting Fixtures,,,wd,Q815738
+Plumbing Supplies,rsubclassof.txt,Q182612,plumbing,,,wd:Plumbing Supplies,,,wd,Q182612
+Electrical Supplies,rsubclassof.txt,Q11653,electronic component,,,wd:Electrical Supplies,,,wd,Q11653
+Clothing,rsubclassof.txt,Q11460,,,,wd:Clothing,,,wd,Q11460
+Footwear,rsubclassof.txt,Q161928,,,,wd:Footwear,,,wd,Q161928
+Accessories,rsubclassof.txt,Q1065579,,,,wd:Accessories,,,wd,Q1065579
+Jewelry,rsubclassof.txt,Q2142903,,,,wd:Jewelry,,,wd,Q2142903
+Watches,rsubclassof.txt,Q178794,,,,wd:Watches,,,wd,Q178794
+Eyewear,rsubclassof.txt,Q5422874,,,,wd:Eyewear,,,wd,Q5422874
+Bags and Purses,rsubclassof.txt,Q467505,handbag,,,wd:Bags and Purses,,,wd,Q467505
+Bakery Products,rsubclassof.txt,Q115753731+Q26995321,,,,wd:Bakery Products,,,wd:,Q115753731+Q26995321
+Dairy Products,rsubclassof.txt,Q185217,,,,wd:Dairy Products,,,wd,Q185217
+Snacks,rsubclassof.txt,Q749316,,,,wd:Snacks,,,wd,Q749316
+Beverages,rsubclassof.txt,Q40050,,,,wd:Beverages,,,wd,Q40050
+Canned Food,rsubclassof.txt,Q12372738,,,,wd:Canned Food,,,wd,Q12372738
+Frozen Food,rsubclassof.txt,Q751728,,,,wd:Frozen Food,,,wd,Q751728
+Confectionery,rsubclassof.txt,Q5159627,,,,wd:Confectionery,,,wd,Q5159627
+Spices and Seasonings,rsubclassof.txt,Q56147276,,,,wd:Spices and Seasonings,,,wd,Q56147276
+Concrete,rsubclassof.txt,Q22657,,,,wd:Concrete,,,wd,Q22657
+Cement,rsubclassof.txt,Q45190,,,,wd:Cement,,,wd,Q45190
+Bricks,rsubclassof.txt,Q40089,,,,wd:Bricks,,,wd,Q40089
+Steel,rsubclassof.txt,Q11427,,,,wd:Steel,,,wd,Q11427
+Timber,rsubclassof.txt,Q287,wood,,,wd:Timber,,,wd,Q287
+Glass,rsubclassof.txt,Q11469,,,,wd:Glass,,,wd,Q11469
+Insulation Materials,rsubclassof.txt,Q1269650,thermal insulation material,,,wd:Insulation Materials,,,wd,Q1269650
+Skincare Products,rsubclassof.txt,Q107391148,,,,wd:Skincare Products,,,wd,Q107391148
+Makeup Products,rsubclassof.txt,Q131207,cosmetics,,,wd:Makeup Products,,,wd,Q131207
+Hair Care Products,rsubclassof.txt,Q50430027,,,,wd:Hair Care Products,,,wd,Q50430027
+Fragrances,rsubclassof.txt,Q15043636,,,,wd:Fragrances,,,wd,Q15043636
+Personal Care Products,rsubclassof.txt,Q3246832,,,,wd:Personal Care Products,,,wd,Q3246832
+Beauty Tools,rsubclassof.txt,,,,,wd:Beauty Tools,,,wd,
+Nail Products,rsubclassof.txt,,,,,wd:Nail Products,,,wd,
+Switches and Sockets,rsubclassof.txt,Q2119531,electrical connector,,,wd:Switches and Sockets,,,wd,Q2119531
+Wires and Cables,rsubclassof.txt,Q188447,electric cable,,,wd:Wires and Cables,,,wd,Q188447
+Transformers,rsubclassof.txt,Q11658,,,,wd:Transformers,,,wd,Q11658
+Generators,rsubclassof.txt,Q131502,,,,wd:Generators,,,wd,Q131502
+Batteries,rsubclassof.txt,Q267298,,,,wd:Batteries,,,wd,Q267298
+Power Distribution Units,rsubclassof.txt,,,,,wd:Power Distribution Units,,,wd,
+Electric Motors,rsubclassof.txt,Q72313,,,,wd:Electric Motors,,,wd,Q72313
+Living Room Furniture,rsubclassof.txt,Q14745,furniture,,,wd:Living Room Furniture,,,wd,Q14745
+Bedroom Furniture,,,,,,wd:Bedroom Furniture,,,wd,
+Dining Room Furniture,,,,,,wd:Dining Room Furniture,,,wd,
+Office Furniture,,,,,,wd:Office Furniture,,,wd,
+Outdoor Furniture,,,,,,wd:Outdoor Furniture,,,wd,
+Kids Furniture,,,,,,wd:Kids Furniture,,,wd,
+Home Decor,rsubclassof.txt,Q59095968,,,,wd:Home Decor,,,wd,Q59095968
+Bath and Body Products,rsubclassof.txt,Q10528974,,,,wd:Bath and Body Products,,,wd,Q10528974
+Oral Care Products,rsubclassof.txt,Q5259487,dentrifice,,,wd:Oral Care Products,,,wd,Q5259487
+Hair Care Products,rsubclassof.txt,Q50430027 ,,,,wd:Hair Care Products,,,wd,Q50430027 
+Skin Care Products,rsubclassof.txt,Q107391148,,,,wd:Skin Care Products,,,wd,Q107391148
+Feminine Hygiene Products,rsubclassof.txt,Q3083164,,,,wd:Feminine Hygiene Products,,,wd,Q3083164
+Men's Grooming Products,rsubclassof.txt,Q111507727,shaving equipment,,,wd:Men's Grooming Products,,,wd,Q111507727
+Fragrances,rsubclassof.txt,Q15043636,,,,wd:Fragrances,,,wd,Q15043636
+Painting,rsubclassof.txt,Q3305213,,,,wd:Painting,,,wd,Q3305213
+Drawing,rsubclassof.txt,Q93184,,,,wd:Drawing,,,wd,Q93184
+Sculpture,rsubclassof.txt,Q860861,,,,wd:Sculpture,,,wd,Q860861
+Photography,rsubclassof.txt,Q125191,,,,wd:Photography,,,wd,Q125191
+Printmaking,rsubclassof.txt,Q11060274,,,,wd:Printmaking,,,wd,Q11060274
+Collage,rsubclassof.txt,Q22669857,,,,wd:Collage,,,wd,Q22669857
+Installation Art,rsubclassof.txt,Q212431,,,,wd:Installation Art,,,wd,Q212431
+Digital Art,rsubclassof.txt,Q860372,,,,wd:Digital Art,,,wd,Q860372
+Mixed Media,rsubclassof.txt,Q1902763,,,,wd:Mixed Media,,,wd,Q1902763
+Drama,rsubclassof.txt,Q25372,,,,wd:Drama,,,wd,Q25372
+Comedy,rsubclassof.txt,Q40831+Q5151421,,,,wd:Comedy,,,wd,Q40831+Q5151421
+Musical Theatre,rsubclassof.txt,Q2743,,,,wd:Musical Theatre,,,wd,Q2743
+Improvisation,,,,,,wd:Improvisation,,,wd,
+Puppetry,rsubclassof.txt,Q588750,,,,wd:Puppetry,,,wd,Q588750
+Opera,rsubclassof.txt,Q1344,,,,wd:Opera,,,wd,Q1344
+Physical Theatre,rsubclassof.txt,Q3179173,,,,wd:Physical Theatre,,,wd,Q3179173
+Ballet,rsubclassof.txt,Q15079786,,,,wd:Ballet,,,wd,Q15079786
+Contemporary Dance,rsubclassof.txt,Q186035,,,,wd:Contemporary Dance,,,wd,Q186035
+Hip Hop Dance,rsubclassof.txt,Q2071053,,,,wd:Hip Hop Dance,,,wd,Q2071053
+Latin Dance,rsubclassof.txt,Q1457972,,,,wd:Latin Dance,,,wd,Q1457972
+Tap Dance,rsubclassof.txt,Q244475,,,,wd:Tap Dance,,,wd,Q244475
+Folk Dance,rsubclassof.txt,Q201022,,,,wd:Folk Dance,,,wd,Q201022
+Ballroom Dance,rsubclassof.txt,Q1085001,,,,wd:Ballroom Dance,,,wd,Q1085001
+Classical Music,rsubclassof.txt,Q9730,,,,wd:Classical Music,,,wd,Q9730
+Pop Music,rsubclassof.txt,Q373342,,,,wd:Pop Music,,,wd,Q373342
+Rock Music,rsubclassof.txt,Q11399,,,,wd:Rock Music,,,wd,Q11399
+Jazz Music,rsubclassof.txt,Q8341,,,,wd:Jazz Music,,,wd,Q8341
+Hip Hop Music,rsubclassof.txt,Q11401,,,,wd:Hip Hop Music,,,wd,Q11401
+Electronic Music,rsubclassof.txt,Q9778,,,,wd:Electronic Music,,,wd,Q9778
+Country Music,rsubclassof.txt,Q83440,,,,wd:Country Music,,,wd,Q83440
+Folk Music,rsubclassof.txt,Q43343,,,,wd:Folk Music,,,wd,Q43343
+World Music,rsubclassof.txt,Q205049,,,,wd:World Music,,,wd,Q205049
+Experimental Music,rsubclassof.txt,Q1640319,,,,wd:Experimental Music,,,wd,Q1640319
+Feature Film,rsubclassof.txt,Q24869,,,,wd:Feature Film,,,wd,Q24869
+Documentary Film,rsubclassof.txt,Q93204,,,,wd:Documentary Film,,,wd,Q93204
+Animation,rsubclassof.txt,Q202866,,,,wd:Animation,,,wd,Q202866
+Short Film,rsubclassof.txt,Q24862,,,,wd:Short Film,,,wd,Q24862
+Experimental Film,rsubclassof.txt,Q790192,,,,wd:Experimental Film,,,wd,Q790192
+Silent Film,rsubclassof.txt,Q226730,,,,wd:Silent Film,,,wd,Q226730
+Performance Art,rsubclassof.txt,Q213156,,,,wd:Performance Art,,,wd,Q213156
+Circus,rsubclassof.txt,Q47928,,,,wd:Circus,,,wd,Q47928
+Magic,rsubclassof.txt,Q148442,,,,wd:Magic,,,wd,Q148442
+Fiction,rsubclassof.txt,Q38072107,,,,wd:Fiction,,,wd,Q38072107
+Non-Fiction,rsubclassof.txt,Q213051,,,,wd:Non-Fiction,,,wd,Q213051
+Poetry,rsubclassof.txt,Q5185279,poem,,,wd:Poetry,,,wd,Q5185279
+Drama,rsubclassof.txt,Q25372,,,,wd:Drama,,,wd,Q25372
+Essays,rsubclassof.txt,Q35760,,,,wd:Essays,,,wd,Q35760
+Novels,rsubclassof.txt,Q8261,,,,wd:Novels,,,wd,Q8261
+Short Stories,rsubclassof.txt,Q49084,,,,wd:Short Stories,,,wd,Q49084
+Biography,rsubclassof.txt,Q36279,,,,wd:Biography,,,wd,Q36279
+Autobiography,rsubclassof.txt,Q4184,,,,wd:Autobiography,,,wd,Q4184
+Historical Fiction,rsubclassof.txt,Q1196408,,,,wd:Historical Fiction,,,wd,Q1196408
+Pottery,rsubclassof.txt,Q45621,ceramics,,,wd:Pottery,,,wd,Q45621
+Glass Art,rsubclassof.txt,Q5567091,,,,wd:Glass Art,,,wd,Q5567091
+Textile Art,rsubclassof.txt,Q22075301,,,,wd:Textile Art,,,wd,Q22075301
+Jewelry Making,rsubclassof.txt,Q161439,,,,wd:Jewelry Making,,,wd,Q161439
+Woodworking,rsubclassof.txt,Q60734095,,,,wd:Woodworking,,,wd,Q60734095
+Metalworking,,,,,,wd:Metalworking,,,wd,
+Paper Craft,rsubclassof.txt,Q11802861,,,,wd:Paper Craft,,,wd,Q11802861
+Ceramics,rsubclassof.txt,Q45621,,,,wd:Ceramics,,,wd,Q45621
+Bookbinding,rsubclassof.txt,Q240471,,,,wd:Bookbinding,,,wd,Q240471
+Graphic Design,rsubclassof.txt,Q185925,,,,wd:Graphic Design,,,wd,Q185925
+Fashion Design,rsubclassof.txt,Q29583,,,,wd:Fashion Design,,,wd,Q29583
+Industrial Design,rsubclassof.txt,Q243606,,,,wd:Industrial Design,,,wd,Q243606
+Interior Design,rsubclassof.txt,Q179232,,,,wd:Interior Design,,,wd,Q179232
+Product Design,rsubclassof.txt,Q1043226,,,,wd:Product Design,,,wd,Q1043226
+Web Design,rsubclassof.txt,Q190637,,,,wd:Web Design,,,wd,Q190637
+Game Design,rsubclassof.txt,Q858057,,,,wd:Game Design,,,wd,Q858057
+Architectural Design,rsubclassof.txt,Q3922674,,,,wd:Architectural Design,,,wd,Q3922674
+Digital Painting,rsubclassof.txt,Q1225029,,,,wd:Digital Painting,,,wd,Q1225029
+Computer Animation,rsubclassof.txt,Q1401416,,,,wd:Computer Animation,,,wd,Q1401416
+Digital Photography,rsubclassof.txt,Q173095,,,,wd:Digital Photography,,,wd,Q173095
+Digital Sculpture,,,,,,wd:Digital Sculpture,,,wd,
+Generative Art,rsubclassof.txt,Q1502032,,,,wd:Generative Art,,,wd,Q1502032
+Interactive Art,rsubclassof.txt,Q2394336,,,,wd:Interactive Art,,,wd,Q2394336
+Conceptual Art,rsubclassof.txt,Q203209,,,,wd:Conceptual Art,,,wd,Q203209
+Street Art,rsubclassof.txt,Q17516,,,,wd:Street Art,,,wd,Q17516
+Installation Art,rsubclassof.txt,Q212431,,,,wd:Installation Art,,,wd,Q212431
+Land Art,rsubclassof.txt,Q326478,,,,wd:Land Art,,,wd,Q326478
+Abstract Art,rsubclassof.txt,Q128115,,,,wd:Abstract Art,,,wd,Q128115
+Contemporary Art,rsubclassof.txt,Q186030,,,,wd:Contemporary Art,,,wd,Q186030
+Pop Art,rsubclassof.txt,Q134147,,,,wd:Pop Art,,,wd,Q134147
+Surrealism,paintings.txt,Q39427,,,,wd:Surrealism,,,wd,Q39427
+Expressionism,paintings.txt,Q80113,,,,wd:Expressionism,,,wd,Q80113
+Impressionism,paintings.txt,Q40415,,,,wd:Impressionism,,,wd,Q40415
+Cubism,paintings.txt,Q42934,,,,wd:Cubism,,,wd,Q42934
+Realism,paintings.txt,Q10857409,,,,wd:Realism,,,wd,Q10857409
+Renaissance Art,rsubclassof.txt,Q1133779,,,,wd:Renaissance Art,,,wd,Q1133779
+Baroque Art,rsubclassof.txt,Q3624106,,,,wd:Baroque Art,,,wd,Q3624106
+Gothic Art,rsubclassof.txt,Q46825,,,,wd:Gothic Art,,,wd,Q46825
+Ancient Art,rsubclassof.txt,Q2277510,,,,wd:Ancient Art,,,wd,Q2277510
+Islamic Art,rsubclassof.txt,Q189594,,,,wd:Islamic Art,,,wd,Q189594
+Eon,isinstance.txt,Q108256,,,,wd:Eon,,,wd,Q108256
+Era,isinstance.txt,Q630830,,,,wd:Era,,,wd,Q630830
+Period,isinstance.txt,Q392928,,,,wd:Period,,,wd,Q392928
+Epoch,isinstance.txt,Q754897,,,,wd:Epoch,,,wd,Q754897
+Age,isinstance.txt,Q568683,,,,wd:Age,,,wd,Q568683
+Unit of Time,isinstance.txt,Q1790144,,,,wd:Unit of Time,,,wd,Q1790144
+Historical Period,isinstance.txt,Q11514315,,,,wd:Historical Period,,,wd,Q11514315
+Classical Mechanics,rsubclassof.txt,Q11397,,,,wd:Classical Mechanics,,,wd,Q11397
+Quantum Mechanics,rsubclassof.txt,Q944,,,,wd:Quantum Mechanics,,,wd,Q944
+Thermodynamics,rsubclassof.txt,Q11473,,,,wd:Thermodynamics,,,wd,Q11473
+Electromagnetism,rsubclassof.txt,Q11406,,,,wd:Electromagnetism,,,wd,Q11406
+Optics,rsubclassof.txt,Q14620,,,,wd:Optics,,,wd,Q14620
+Particle Physics,rsubclassof.txt,Q18334,,,,wd:Particle Physics,,,wd,Q18334
+Astrophysics,rsubclassof.txt,Q37547,,,,wd:Astrophysics,,,wd,Q37547
+Nuclear Physics,rsubclassof.txt,Q81197,,,,wd:Nuclear Physics,,,wd,Q81197
+Organic Chemistry,rsubclassof.txt,Q11351,,,,wd:Organic Chemistry,,,wd,Q11351
+Inorganic Chemistry,rsubclassof.txt,Q11165,,,,wd:Inorganic Chemistry,,,wd,Q11165
+Physical Chemistry,rsubclassof.txt,Q11372,,,,wd:Physical Chemistry,,,wd,Q11372
+Analytical Chemistry,rsubclassof.txt,Q2346,,,,wd:Analytical Chemistry,,,wd,Q2346
+Biochemistry,rsubclassof.txt,Q7094,,,,wd:Biochemistry,,,wd,Q7094
+Environmental Chemistry,rsubclassof.txt,Q321355,,,,wd:Environmental Chemistry,,,wd,Q321355
+Polymer Chemistry,rsubclassof.txt,Q750446,,,,wd:Polymer Chemistry,,,wd,Q750446
+Mineralogy,rsubclassof.txt,Q83353,,,,wd:Mineralogy,,,wd,Q83353
+Petrology,rsubclassof.txt,Q163082,,,,wd:Petrology,,,wd,Q163082
+Sedimentology,rsubclassof.txt,Q205768,,,,wd:Sedimentology,,,wd,Q205768
+Structural Geology,rsubclassof.txt,Q334823,,,,wd:Structural Geology,,,wd,Q334823
+Volcanology,rsubclassof.txt,Q102904,,,,wd:Volcanology,,,wd,Q102904
+Geophysics,rsubclassof.txt,Q46255,,,,wd:Geophysics,,,wd,Q46255
+Geochemistry,rsubclassof.txt,Q161764,,,,wd:Geochemistry,,,wd,Q161764
+Meteorology,rsubclassof.txt,Q25261,,,,wd:Meteorology,,,wd,Q25261
+Oceanography,rsubclassof.txt,Q43518,,,,wd:Oceanography,,,wd,Q43518
+Climatology,rsubclassof.txt,Q52139,,,,wd:Climatology,,,wd,Q52139
+Geomorphology,rsubclassof.txt,Q52109,,,,wd:Geomorphology,,,wd,Q52109
+Paleontology,rsubclassof.txt,Q7205,,,,wd:Paleontology,,,wd,Q7205
+Seismology,rsubclassof.txt,Q83371,,,,wd:Seismology,,,wd,Q83371
+Planetary Science,rsubclassof.txt,Q104499,,,,wd:Planetary Science,,,wd,Q104499
+Stellar Astronomy,rsubclassof.txt,Q2295061,,,,wd:Stellar Astronomy,,,wd,Q2295061
+Cosmology,rsubclassof.txt,Q338,,,,wd:Cosmology,,,wd,Q338
+Astrobiology,rsubclassof.txt,Q411,,,,wd:Astrobiology,,,wd,Q411
+Astrophysics,rsubclassof.txt,Q37547,,,,wd:Astrophysics,,,wd,Q37547
+Astrodynamics,rsubclassof.txt,Q842433,orbital mechanics,,,wd:Astrodynamics,,,wd,Q842433
+Molecular Biology,rsubclassof.txt,Q7202,,,,wd:Molecular Biology,,,wd,Q7202
+Cell Biology,rsubclassof.txt,Q7141,,,,wd:Cell Biology,,,wd,Q7141
+Genetics,rsubclassof.txt,Q7162,,,,wd:Genetics,,,wd,Q7162
+Microbiology,rsubclassof.txt,Q7193,,,,wd:Microbiology,,,wd,Q7193
+Ecology,rsubclassof.txt,Q7150,,,,wd:Ecology,,,wd,Q7150
+Evolutionary Biology,rsubclassof.txt,Q840400,,,,wd:Evolutionary Biology,,,wd,Q840400
+Botany,rsubclassof.txt,Q441,,,,wd:Botany,,,wd,Q441
+Zoology,rsubclassof.txt,Q431,,,,wd:Zoology,,,wd,Q431
+Anatomy,rsubclassof.txt,Q514,,,,wd:Anatomy,,,wd,Q514
+Physiology,rsubclassof.txt,Q521,,,,wd:Physiology,,,wd,Q521
+Proteins,rsubclassof.txt,Q8054,,,,wd:Proteins,,,wd,Q8054
+Enzymes,rsubclassof.txt,Q8047,,,,wd:Enzymes,,,wd,Q8047
+Metabolism,rsubclassof.txt,Q1057,,,,wd:Metabolism,,,wd,Q1057
+Nucleic Acids,rsubclassof.txt,Q123619,,,,wd:Nucleic Acids,,,wd,Q123619
+Carbohydrates,rsubclassof.txt,Q11358,,,,wd:Carbohydrates,,,wd,Q11358
+Lipids,rsubclassof.txt,Q11367,,,,wd:Lipids,,,wd,Q11367
+Neuroanatomy,rsubclassof.txt,Q948647,,,,wd:Neuroanatomy,,,wd,Q948647
+Neurophysiology,rsubclassof.txt,Q660910,,,,wd:Neurophysiology,,,wd,Q660910
+Cognitive Neuroscience,rsubclassof.txt,Q1138951,,,,wd:Cognitive Neuroscience,,,wd,Q1138951
+Behavioral Neuroscience,rsubclassof.txt,Q846566,,,,wd:Behavioral Neuroscience,,,wd,Q846566
+Developmental Neuroscience,rsubclassof.txt,Q15763713,,,,wd:Developmental Neuroscience,,,wd,Q15763713
+Computational Neuroscience,rsubclassof.txt,Q8037925,,,,wd:Computational Neuroscience,,,wd,Q8037925
+Population Ecology,rsubclassof.txt,Q1049866,,,,wd:Population Ecology,,,wd,Q1049866
+Community Ecology,rsubclassof.txt,Q8771652,,,,wd:Community Ecology,,,wd,Q8771652
+Ecosystem Ecology,rsubclassof.txt,Q3402485,,,,wd:Ecosystem Ecology,,,wd,Q3402485
+Conservation Biology,rsubclassof.txt,Q641498,,,,wd:Conservation Biology,,,wd,Q641498
+Behavioral Ecology,rsubclassof.txt,Q1205637,,,,wd:Behavioral Ecology,,,wd,Q1205637
+Evolutionary Ecology,rsubclassof.txt,Q1382557,,,,wd:Evolutionary Ecology,,,wd,Q1382557
+Landscape Ecology,rsubclassof.txt,Q738011,,,,wd:Landscape Ecology,,,wd,Q738011
+Mendelian Genetics,rsubclassof.txt,,,,,wd:Mendelian Genetics,,,wd,
+Molecular Genetics,rsubclassof.txt,Q210506,,,,wd:Molecular Genetics,,,wd,Q210506
+Population Genetics,rsubclassof.txt,Q31151,,,,wd:Population Genetics,,,wd,Q31151
+Epigenetics,rsubclassof.txt,Q26939,,,,wd:Epigenetics,,,wd,Q26939
+Genomic Medicine,rsubclassof.txt,Q6008695,,,,wd:Genomic Medicine,,,wd,Q6008695
+Genetic Engineering,rsubclassof.txt,Q159236,,,,wd:Genetic Engineering,,,wd,Q159236
+Human Anatomy,rsubclassof.txt,Q3999,,,,wd:Human Anatomy,,,wd,Q3999
+Comparative Anatomy,rsubclassof.txt,Q843900,,,,wd:Comparative Anatomy,,,wd,Q843900
+Developmental Anatomy,rsubclassof.txt,Q93619943,,,,wd:Developmental Anatomy,,,wd,Q93619943
+Histology,rsubclassof.txt,Q7168,,,,wd:Histology,,,wd,Q7168
+Neuroanatomy,rsubclassof.txt,Q948647,,,,wd:Neuroanatomy,,,wd,Q948647
+Cognitive Psychology,rsubclassof.txt,Q23373,,,,wd:Cognitive Psychology,,,wd,Q23373
+Developmental Psychology,rsubclassof.txt,Q175002,,,,wd:Developmental Psychology,,,wd,Q175002
+Social Psychology,rsubclassof.txt,Q161272,,,,wd:Social Psychology,,,wd,Q161272
+Clinical Psychology,rsubclassof.txt,Q199906,,,,wd:Clinical Psychology,,,wd,Q199906
+Neuropsychology,rsubclassof.txt,Q3872,,,,wd:Neuropsychology,,,wd,Q3872
+Educational Psychology,rsubclassof.txt,Q59157,,,,wd:Educational Psychology,,,wd,Q59157
+Industrial-Organizational Psychology,rsubclassof.txt,Q2045692,,,,wd:Industrial-Organizational Psychology,,,wd,Q2045692
+Social Theory,rsubclassof.txt,Q1990987,,,,wd:Social Theory,,,wd,Q1990987
+Criminology,rsubclassof.txt,Q161733,,,,wd:Criminology,,,wd,Q161733
+Demography,rsubclassof.txt,Q37732,,,,wd:Demography,,,wd,Q37732
+Social Stratification,rsubclassof.txt,Q841628,,,,wd:Social Stratification,,,wd,Q841628
+Social Movements,rsubclassof.txt,Q49773,,,,wd:Social Movements,,,wd,Q49773
+Political Sociology,rsubclassof.txt,Q745692,,,,wd:Political Sociology,,,wd,Q745692
+Urban Sociology,rsubclassof.txt,Q597680,,,,wd:Urban Sociology,,,wd,Q597680
+Cultural Anthropology,rsubclassof.txt,Q28598,,,,wd:Cultural Anthropology,,,wd,Q28598
+Archaeology,rsubclassof.txt,Q23498,,,,wd:Archaeology,,,wd,Q23498
+Linguistic Anthropology,rsubclassof.txt,Q772835,,,,wd:Linguistic Anthropology,,,wd,Q772835
+Biological Anthropology,rsubclassof.txt,Q27172,,,,wd:Biological Anthropology,,,wd,Q27172
+Medical Anthropology,rsubclassof.txt,Q1779521,,,,wd:Medical Anthropology,,,wd,Q1779521
+Forensic Anthropology,rsubclassof.txt,Q28065,,,,wd:Forensic Anthropology,,,wd,Q28065
+Microeconomics,rsubclassof.txt,Q39072,,,,wd:Microeconomics,,,wd,Q39072
+Macroeconomics,rsubclassof.txt,Q39680,,,,wd:Macroeconomics,,,wd,Q39680
+International Economics,rsubclassof.txt,Q47417,,,,wd:International Economics,,,wd,Q47417
+Development Economics,rsubclassof.txt,Q1127188,,,,wd:Development Economics,,,wd,Q1127188
+Labor Economics,rsubclassof.txt,Q28161,,,,wd:Labor Economics,,,wd,Q28161
+Behavioral Economics,rsubclassof.txt,Q647525,,,,wd:Behavioral Economics,,,wd,Q647525
+Comparative Politics,rsubclassof.txt,Q32492,,,,wd:Comparative Politics,,,wd,Q32492
+International Relations,rsubclassof.txt,Q166542,,,,wd:International Relations,,,wd,Q166542
+Political Theory,rsubclassof.txt,Q9357091,,,,wd:Political Theory,,,wd,Q9357091
+Public Administration,rsubclassof.txt,Q31728,,,,wd:Public Administration,,,wd,Q31728
+Political Economy,rsubclassof.txt,Q47555,,,,wd:Political Economy,,,wd,Q47555
+Public Policy,rsubclassof.txt,Q546113,,,,wd:Public Policy,,,wd,Q546113
+Algebra,rsubclassof.txt,Q3968,,,,wd:Algebra,,,wd,Q3968
+Geometry,rsubclassof.txt,Q8087,,,,wd:Geometry,,,wd,Q8087
+Calculus,rsubclassof.txt,Q149972,,,,wd:Calculus,,,wd,Q149972
+Statistics,rsubclassof.txt,Q12483,,,,wd:Statistics,,,wd,Q12483
+Number Theory,rsubclassof.txt,Q12479,,,,wd:Number Theory,,,wd,Q12479
+Topology,rsubclassof.txt,Q42989,,,,wd:Topology,,,wd,Q42989
+Probability Theory,rsubclassof.txt,Q5862903,,,,wd:Probability Theory,,,wd,Q5862903
+Artificial Intelligence,rsubclassof.txt,Q11660,,,,wd:Artificial Intelligence,,,wd,Q11660
+Data Science,rsubclassof.txt,Q2374463,,,,wd:Data Science,,,wd,Q2374463
+Algorithms,rsubclassof.txt,Q8366,,,,wd:Algorithms,,,wd,Q8366
+Database Systems,rsubclassof.txt,Q106077964,,,,wd:Database Systems,,,wd,Q106077964
+Computer Networks,rsubclassof.txt,Q1301371,,,,wd:Computer Networks,,,wd,Q1301371
+Operating Systems,rsubclassof.txt,Q9135,,,,wd:Operating Systems,,,wd,Q9135
+Software Engineering,rsubclassof.txt,Q80993,,,,wd:Software Engineering,,,wd,Q80993
+Symbolic Logic,rsubclassof.txt,Q6083405,,,,wd:Symbolic Logic,,,wd,Q6083405
+Mathematical Logic,rsubclassof.txt,Q1166618,,,,wd:Mathematical Logic,,,wd,Q1166618
+Modal Logic,rsubclassof.txt,Q210841,,,,wd:Modal Logic,,,wd,Q210841
+Non-Classical Logic,rsubclassof.txt,Q239179,,,,wd:Non-Classical Logic,,,wd,Q239179
+Philosophical Logic,rsubclassof.txt,Q8078,,,,wd:Philosophical Logic,,,wd,Q8078
+Proof Theory,rsubclassof.txt,Q852732,,,,wd:Proof Theory,,,wd,Q852732
+Descriptive Statistics,rsubclassof.txt,Q380344,,,,wd:Descriptive Statistics,,,wd,Q380344
+Inferential Statistics,rsubclassof.txt,Q28873772,,,,wd:Inferential Statistics,,,wd,Q28873772
+Regression Analysis,rsubclassof.txt,Q208042,,,,wd:Regression Analysis,,,wd,Q208042
+Experimental Design,rsubclassof.txt,Q2334061,,,,wd:Experimental Design,,,wd,Q2334061
+Statistical Modeling,rsubclassof.txt,Q367664,data modelling,,,wd:Statistical Modeling,,,wd,Q367664
+Multivariate Analysis,rsubclassof.txt,Q3331475,,,,wd:Multivariate Analysis,,,wd,Q3331475
+Civil Engineering,rsubclassof.txt,Q77590,,,,wd:Civil Engineering,,,wd,Q77590
+Mechanical Engineering,rsubclassof.txt,Q101333,,,,wd:Mechanical Engineering,,,wd,Q101333
+Electrical Engineering,rsubclassof.txt,Q43035,,,,wd:Electrical Engineering,,,wd,Q43035
+Chemical Engineering,rsubclassof.txt,Q83588,,,,wd:Chemical Engineering,,,wd,Q83588
+Aerospace Engineering,rsubclassof.txt,Q3798668,,,,wd:Aerospace Engineering,,,wd,Q3798668
+Biomedical Engineering,rsubclassof.txt,Q327092,,,,wd:Biomedical Engineering,,,wd,Q327092
+Computer Engineering,rsubclassof.txt,Q428691,,,,wd:Computer Engineering,,,wd,Q428691
+Anatomy,rsubclassof.txt,Q514,,,,wd:Anatomy,,,wd,Q514
+Physiology,rsubclassof.txt,Q521,,,,wd:Physiology,,,wd,Q521
+Pharmacology,rsubclassof.txt,Q128406,,,,wd:Pharmacology,,,wd,Q128406
+Pathology,rsubclassof.txt,Q7208,,,,wd:Pathology,,,wd,Q7208
+Microbiology,rsubclassof.txt,Q7193,,,,wd:Microbiology,,,wd,Q7193
+Epidemiology,rsubclassof.txt,Q133805,,,,wd:Epidemiology,,,wd,Q133805
+Medical Imaging,rsubclassof.txt,Q931309,,,,wd:Medical Imaging,,,wd,Q931309
+Crop Science,rsubclassof.txt,Q64822370,,,,wd:Crop Science,,,wd,Q64822370
+Animal Science,rsubclassof.txt,Q168091,,,,wd:Animal Science,,,wd,Q168091
+Horticulture,rsubclassof.txt,Q48803,,,,wd:Horticulture,,,wd,Q48803
+Soil Science,rsubclassof.txt,Q9161265,,,,wd:Soil Science,,,wd,Q9161265
+Agricultural Economics,rsubclassof.txt,Q396340,,,,wd:Agricultural Economics,,,wd,Q396340
+Agroecology,rsubclassof.txt,Q396338,,,,wd:Agroecology,,,wd,Q396338
+Plant Breeding,rsubclassof.txt,Q788558,,,,wd:Plant Breeding,,,wd,Q788558
+Ecology,rsubclassof.txt,Q7150,,,,wd:Ecology,,,wd,Q7150
+Conservation Biology,rsubclassof.txt,Q641498,,,,wd:Conservation Biology,,,wd,Q641498
+Climate Science,rsubclassof.txt,Q52139,,,,wd:Climate Science,,,wd,Q52139
+Environmental Chemistry,rsubclassof.txt,Q321355,,,,wd:Environmental Chemistry,,,wd,Q321355
+Environmental Policy,rsubclassof.txt,Q919526,,,,wd:Environmental Policy,,,wd,Q919526
+Geographic Information Systems (GIS),rsubclassof.txt,Q483130,,,,wd:Geographic Information Systems (GIS),,,wd,Q483130
+Architectural Design,rsubclassof.txt,Q3922674,,,,wd:Architectural Design,,,wd,Q3922674
+Building Materials Science,,,,,,wd:Building Materials,,,wd,
+Structural Engineering,rsubclassof.txt,Q633538,,,,wd:Structural Engineering,,,wd,Q633538
+Urban Planning,rsubclassof.txt,Q69883,,,,wd:Urban Planning,,,wd,Q69883
+Sustainable Architecture,rsubclassof.txt,Q185035,,,,wd:Sustainable Architecture,,,wd,Q185035
+Interior Design,rsubclassof.txt,Q179232,,,,wd:Interior Design,,,wd,Q179232
+Landscape Architecture,rsubclassof.txt,Q47844,,,,wd:Landscape Architecture,,,wd,Q47844
+Information Retrieval,rsubclassof.txt,Q816826,,,,wd:Information Retrieval,,,wd,Q816826
+Database Management,rsubclassof.txt,Q5227391,,,,wd:Database Management,,,wd,Q5227391
+Data Analysis,rsubclassof.txt,Q1988917,,,,wd:Data Analysis,,,wd,Q1988917
+Human-Computer Interaction,rsubclassof.txt,Q207434,,,,wd:Human-Computer Interaction,,,wd,Q207434
+Digital Libraries,rsubclassof.txt,Q212805,,,,wd:Digital Libraries,,,wd,Q212805
+Knowledge Management,rsubclassof.txt,Q192060,,,,wd:Knowledge Management,,,wd:,Q192060
+Newspapers,isinstance.txt,Q11032,,,,wd:Newspapers,,,wd,Q11032
+Magazines,isinstance.txt,Q41298,,,,wd:Magazines,,,wd,Q41298
+Journals,isinstance.txt,Q5633421,,,,wd:Journals,,,wd,Q5633421
+Networks,isinstance.txt,Q1254874,,,,wd:Networks,,,wd,Q1254874
+Channels,isinstance.txt,Q2001305,,,,wd:Channels,,,wd,Q2001305
+AM Stations,,,,,,wd:AM Stations,,,wd,
+FM Stations,,,,,,wd:FM Stations,,,wd,
+Online News,isinstance.txt,Q1153191,,,,wd:Online News,,,wd,Q1153191
+Blogs,isinstance.txt,Q30849,,,,wd:Blogs,,,wd,Q30849
+Podcasts,isinstance.txt,Q20899,,,,wd:Podcasts,,,wd,Q20899
+Social Networking Sites,isinstance.txt,Q3220391,,,,wd:Social Networking Sites,,,wd,Q3220391
+Microblogging Platforms,isinstance.txt,Q92438,,,,wd:Microblogging Platforms,,,wd,Q92438
+Video Sharing Platforms,isinstance.txt,Q119517843,,,,wd:Video Sharing Platforms,,,wd,Q119517843
+Image Sharing Platforms,,,,,,wd:Image Sharing Platforms,,,wd,
+Video-on-Demand (VOD),isinstance.txt,Q723685,,,,wd:Video-on-Demand (VOD),,,wd,Q723685
+Live Streaming Platforms,isinstance.txt,Q3027665,,,,wd:Live Streaming Platforms,,,wd,Q3027665
+Music Streaming,isinstance.txt,Q15982450,,,,wd:Music Streaming,,,wd,Q15982450
+E-books,isinstance.txt,Q128093,,,,wd:E-books,,,wd,Q128093
+Online Magazines,isinstance.txt,Q847906,,,,wd:Online Magazines,,,wd,Q847906
+Online Forums,isinstance.txt,Q168210,,,,wd:Online Forums,,,wd,Q168210
+Film Genres,isinstance.txt,Q201658,,,,wd:Genres,,,wd,Q201658
+Production Studios,isinstance.txt,Q375336,,,,wd:Production Studios,,,wd,Q375336
+Film Festivals,isinstance.txt,Q220505,,,,wd:Film Festivals,,,wd,Q220505
+Genres,isinstance.txt,Q188451,,,,wd:Genres,,,wd,Q188451
+Record Labels,isinstance.txt,Q18127,,,,wd:Record Labels,,,wd,Q18127
+Music Festivals,isinstance.txt,Q868557,,,,wd:Music Festivals,,,wd,Q868557
+Painting,isinstance.txt,Q3305213,,,,wd:Painting,,,wd,Q3305213
+Sculpture,isinstance.txt,Q860861,,,,wd:Sculpture,,,wd,Q860861
+Photography,isinstance.txt,Q11633,,,,wd:Photography,,,wd,Q11633
+Theater art,isinstance.txt,Q11635,,,,wd:Theater,,,wd,Q11635
+Dance,isinstance.txt,Q11639,,,,wd:Dance,,,wd,Q11639
+Opera,isinstance.txt,Q1344,,,,wd:Opera,,,wd,Q1344
+Print Advertising,isinstance.txt,Q114793694,,,,wd:Print Advertising,,,wd,Q114793694
+Television Advertising,isinstance.txt,Q854995,,,,wd:Television Advertising,,,wd,Q854995
+Online Advertising,isinstance.txt,Q624902,,,,wd:Online Advertising,,,wd,Q624902
+Outdoor Advertising,isinstance.txt,Q70847844,,,,wd:Outdoor Advertising,,,wd,Q70847844
+Radio Advertising,isinstance.txt,Q1286627,,,,wd:Radio Advertising,,,wd,Q1286627
+Scholarships,risinstance.txt,Q188823,,,,wd:Scholarships,,,wd,Q188823
+Research Grants,risinstance.txt,Q54875403,,,,wd:Research Grants,,,wd,Q54875403
+Fellowships,risinstance.txt,Q20006438,,,,wd:Fellowships,,,wd,Q20006438
+Literary Awards,risinstance.txt,Q378427,,,,wd:Literary Awards,,,wd,Q378427
+Film Awards,risinstance.txt,Q4220917,,,,wd:Film Awards,,,wd,Q4220917
+Music Awards,risinstance.txt,Q1364556,,,,wd:Music Awards,,,wd,Q1364556
+Olympic Medals,risinstance.txt,Q636830,,,,wd:Olympic Medals,,,wd,Q636830
+Athletic Achievements,,,,,,wd:Athletic Achievements,,,wd,
+Team Championships,,,,,,wd:Team Championships,,,wd,
+Film Awards,risinstance.txt,Q4220917,,,,wd:Film Awards,,,wd,Q4220917
+Television Awards,risinstance.txt,Q1407225,,,,wd:Television Awards,,,wd,Q1407225
+Music Awards,risinstance.txt,Q1364556,,,,wd:Music Awards,,,wd,Q1364556
+Nobel Prize in Literature,risinstance.txt,Q37922,,,,wd:Nobel Prize in Literature,,,wd,Q37922
+Pulitzer Prize,risinstance.txt,Q46525,,,,wd:Pulitzer Prize,,,wd,Q46525
+Booker Prize,risinstance.txt,Q160082,,,,wd:Booker Prize,,,wd,Q160082
+Nobel Prizes,risinstance.txt,Q99528612,,,,wd:Nobel Prizes,,,wd,Q99528612
+Fields Medals,risinstance.txt,Q28835,,,,wd:Fields Medals,,,wd,Q28835
+Breakthrough Prizes,risinstance.txt,Q17278140,,,,wd:Breakthrough Prizes,,,wd,Q17278140
+Nobel Peace Prize,risinstance.txt,Q35637,,,,wd:Nobel Peace Prize,,,wd,Q35637
+Gandhi Peace Prize,risinstance.txt,Q1324269,,,,wd:Gandhi Peace Prize,,,wd,Q1324269
+UNESCO Peace Prize,,,,,,wd:UNESCO Peace Prize,,,wd,
+Military Awards,risinstance.txt,Q1788716,,,,wd:Military Awards,,,wd,Q1788716
+Lifetime Achievement Awards,risinstance.txt,Q105727509,,,,wd:Lifetime Achievement Awards,,,wd,Q105727509
+Honorary Awards,risinstance.txt,Q96474707,,,,wd:Honorary Awards,,,wd,Q96474707
+Special Recognition Awards,risinstance.txt,Q18154221,,,,wd:Special Recognition Awards,,,wd,Q18154221
+Associate's Degree,rsubclassof.txt,Q14625016,,,,wd:Associate's Degree,,,wd,Q14625016
+Bachelor's Degree,rsubclassof.txt,Q163727,,,,wd:Bachelor's Degree,,,wd,Q163727
+Master's Degree,rsubclassof.txt,Q183816,,,,wd:Master's Degree,,,wd,Q183816
+Doctor of Medicine (M.D.),rsubclassof.txt,Q913404,,,,wd:Doctor of Medicine (M.D.),,,wd,Q913404
+Juris Doctor (J.D.),rsubclassof.txt,Q1540185,,,,wd:Juris Doctor (J.D.),,,wd,Q1540185
+Doctor of Pharmacy (Pharm.D.),rsubclassof.txt,Q2098180,,,,wd:Doctor of Pharmacy (Pharm.D.),,,wd,Q2098180
+Master of Philosophy (M.Phil.),rsubclassof.txt,Q1527520,,,,wd:Master of Philosophy (M.Phil.),,,wd,Q1527520
+Doctor of Philosophy (Ph.D.),rsubclassof.txt,Q752297,,,,wd:Doctor of Philosophy (Ph.D.),,,wd,Q752297
+Doctor of Science (D.Sc.),rsubclassof.txt,Q2248352,,,,wd:Doctor of Science (D.Sc.),,,wd,Q2248352
+Postdoctoral Degree,rsubclassof.txt,Q16696826,,,,wd:Postdoctoral Degree,,,wd,Q16696826
+Professional Certifications,rsubclassof.txt,Q16023913,,,,wd:Professional Certifications,,,wd,Q16023913
+Higher Doctorate,rsubclassof.txt,Q15978675,,,,wd:Higher Doctorate,,,wd,Q15978675
+Diploma Programs,rsubclassof.txt,Q217577,,,,wd:Diploma Programs,,,wd,Q217577
+Certificate Programs,,,,,,wd:Certificate Programs,,,wd,
+Trade Apprenticeships,,,,,,wd:Trade Apprenticeships,,,wd,
+Honorary Degrees,rsubclassof.txt,Q209896,,,,wd:Honorary Degrees,,,wd,Q209896
+Germanic Languages,rsubclassof.txt,Q21200,,,,wd:Germanic Languages,,,wd,Q21200
+Romance Languages,rsubclassof.txt,Q19814,,,,wd:Romance Languages,,,wd,Q19814
+Slavic Languages,rsubclassof.txt,Q23526,,,,wd:Slavic Languages,,,wd,Q23526
+Sino-Tibetan Languages,rsubclassof.txt,Q45961,,,,wd:Sino-Tibetan Languages,,,wd,Q45961
+Afro-Asiatic Languages,rsubclassof.txt,Q25268,,,,wd:Afro-Asiatic Languages,,,wd,Q25268
+Dravidian Languages,rsubclassof.txt,Q33311,,,,wd:Dravidian Languages,,,wd,Q33311
+Austronesian Languages,rsubclassof.txt,Q49228,,,,wd:Austronesian Languages,,,wd,Q49228
+Niger-Congo Languages,rsubclassof.txt,Q33838,,,,wd:Niger-Congo Languages,,,wd,Q33838
+Artificial Languages,rsubclassof.txt,Q3247505,,,,wd:Artificial Languages,,,wd,Q3247505
+Programming Languages,isinstance.txt,Q9143,,,,wd:Programming Languages,,,wd,Q9143
+Sign Languages,isinstance.txt,Q34228,,,,wd:Sign Languages,,,wd,Q34228
+Ancient Languages,isinstance.txt,Q436240,,,,wd:Ancient Languages,,,wd,Q436240
+Legal Systems,isinstance.txt,Q2478386,,,,wd:Legal Systems,,,wd,Q2478386
+Civil Law,rsubclassof.txt,Q222249,,,,wd:Civil Law,,,wd,Q222249
+Criminal Law,rsubclassof.txt,Q146491,,,,wd:Criminal Law,,,wd,Q146491
+Constitutional Law,rsubclassof.txt,Q11206,,,,wd:Constitutional Law,,,wd,Q11206
+Administrative Law,rsubclassof.txt,Q171251,,,,wd:Administrative Law,,,wd,Q171251
+International Law,rsubclassof.txt,Q4394526,,,,wd:International Law,,,wd,Q4394526
+Legislation,isinstance.txt,Q49371,,,,wd:Legislation,,,wd,Q49371
+Regulations,isinstance.txt,Q428148,,,,wd:Regulations,,,wd,Q428148
+Contracts,isinstance.txt,Q93288,,,,wd:Contracts,,,wd,Q93288
+Treaties,isinstance.txt,Q131569,,,,wd:Treaties,,,wd,Q131569
+Case Law,isinstance.txt,Q11022655,,,,wd:Case Law,,,wd,Q11022655
+Legal Rights,rsubclassof.txt,Q2386606,,,,wd:Legal Rights,,,wd,Q2386606
+Legal Duties,,,,,,wd:Legal Duties,,,wd,
+Liability,rsubclassof.txt,Q1404417,,,,wd:Liability,,,wd,Q1404417
+Jurisdiction,rsubclassof.txt,Q471855,,,,wd:Jurisdiction,,,wd,Q471855
+Legal Person,isinstance.txt,Q3778211,,,,wd:Legal Person,,,wd,Q3778211
+Lawyers,occupation.txt,Q40348,,,,wd:Lawyers,,,wd,Q40348
+Judges,occupation.txt,Q16533,,,,wd:Judges,,,wd,Q16533
+Legal Scholars,occupation.txt,Q16012028,,,,wd:Legal Scholars,,,wd,Q16012028
+Legal Assistants,occupation.txt,Q620413,,,,wd:Legal Assistants,,,wd,Q620413
+Corporations,isinstance.txt,Q167037,,,,wd:Corporations,,,wd,Q167037
+Partnerships,isinstance.txt,Q728646,,,,wd:Partnerships,,,wd,Q728646
+Nonprofit Organizations,isinstance.txt,Q163740,,,,wd:Nonprofit Organizations,,,wd,Q163740
+Government Agencies,isinstance.txt,Q327333,,,,wd:Government Agencies,,,wd,Q327333
+Trade Unions,,,,,,wd:Trade Unions,,,wd,
+Patents,isinstance.txt,Q253623,,,,wd:Patents,,,wd,Q253623
+Trademarks,isinstance.txt,Q167270,,,,wd:Trademarks,,,wd,Q167270
+Copyrights,isinstance.txt,Q1297822,,,,wd:Copyrights,,,wd,Q1297822
+Trade Secrets,isinstance.txt,Q602938,,,,wd:Trade Secrets,,,wd,Q602938
+Intellectual Property Licensing,isinstance.txt,Q131257,,,,wd:Intellectual Property Licensing,,,wd,Q131257
+Law Enforcement,rsubclassof.txt,Q44554,,,,wd:Law Enforcement,,,wd,Q44554
+Prosecution,isinstance.txt,Q64812306,,,,wd:Prosecution,,,wd,Q64812306
+Defense,rsubclassof.txt,Q29688905,,,,wd:Defense,,,wd,Q29688905
+Corrections,rsubclassof.txt,Q328616,,,,wd:Corrections,,,wd,Q328616
+Probation and Parole,rsubclassof.txt,Q5357120,,,,wd:Probation and Parole,,,wd,Q5357120
+Monotheistic Religions,rsubclassof.txt,Q19842652,,,,wd:Monotheistic Religions,,,wd,Q19842652
+Polytheistic Religions,rsubclassof.txt,Q108704490,,,,wd:Polytheistic Religions,,,wd,Q108704490
+Pantheistic Religions,,,,,,wd:Pantheistic Religions,,,wd,
+Nontheistic Religions,rsubclassof.txt,Q6508891,,,,wd:Nontheistic Religions,,,wd,Q6508891
+Religious Texts,isinstance.txt,Q179461,,,,wd:Religious Texts,,,wd,Q179461
+Prophets,isinstanceclass.txt,Q42857,,,,wd:Prophets,,,wd,Q42857
+Founders,,,,,,wd:Founders,,,wd,
+Religious Leaders,isinstanceclass.txt,Q15995642,,,,wd:Religious Leaders,,,wd,Q15995642
+Saints,isinstanceclass.txt,Q43115,,,,wd:Saints,,,wd,Q43115
+Gurus,occupation.txt,Q484260,,,,wd:Gurus,,,wd,Q484260
+Temple,isinstance.txt,Q44539,,,,wd:Temple,,,wd,Q44539
+Churche,isinstance.txt,Q16970,,,,wd:Churche,,,wd,Q16970
+Mosque,isinstance.txt,Q32815,,,,wd:Mosque,,,wd,Q32815
+Synagogue,isinstance.txt,Q34627,,,,wd:Synagogue,,,wd,Q34627
+Gurdwara,isinstance.txt,Q337986,,,,wd:Gurdwara,,,wd,Q337986
+Rituals,isinstance.txt,Q189819,,,,wd:Rituals,,,wd,Q189819
+Prayers,isinstance.txt,Q40953,,,,wd:Prayers,,,wd,Q40953
+Meditation,isinstance.txt,Q108458,,,,wd:Meditation,,,wd,Q108458
+Sacrifices,isinstance.txt,Q179723,,,,wd:Sacrifices,,,wd,Q179723
+Pilgrimages,isinstance.txt,Q1644573,,,,wd:Pilgrimages,,,wd,Q1644573
+Religious Festivals,isinstance.txt,Q375011,,,,wd:Religious Festivals,,,wd,Q375011
+Religious Symbols,isinstance.txt,Q60469796,,,,wd:Religious Symbols,,,wd,Q60469796
+Religious Sects,isinstance.txt,Q19097,,,,wd:Religious Sects,,,wd,Q19097
+Religious Organizations,isinstance.txt,Q1530022,,,,wd:Religious Organizations,,,wd,Q1530022
+Monastic Orders,isinstance.txt,Q3355750,,,,wd:Monastic Orders,,,wd,Q3355750
+Educational Institutions,isinstance.txt,Q23004409,parochial educational,,,wd:Educational Institutions,,,wd,Q23004409
+Missionary Organizations,,,,,,wd:Missionary Organizations,,,wd,
+Charitable Organizations,,,,,,wd:Charitable Organizations,,,wd,
+Afterlife Concepts,risinstance.txt,Q623282,,,,wd:Afterlife Concepts,,,wd,Q623282
+Religious Ethics,rsubclassof.txt,Q14254438,,,,wd:Religious Ethics,,,wd,Q14254438
+Religious Mythology,,,,,,wd:Religious Mythology,,,wd,
+Religious Art and Architecture,isinstance.txt,Q2864737,,,,wd:Religious Art and Architecture,,,wd,Q2864737
+African Ethnicities,rsubclassof.txt,Q1075929,,,,wd:African Ethnicities,,,wd,Q1075929
+East Asian Ethnicities,rsubclassof.txt,Q26764649,,,,wd:East Asian Ethnicities,,,wd,Q26764649
+Southeast Asian Ethnicities,rsubclassof.txt,Q99929155,,,,wd:Southeast Asian Ethnicities,,,wd,Q99929155
+South Asian Ethnicities,rsubclassof.txt,Q100251275,,,,wd:South Asian Ethnicities,,,wd,Q100251275
+Central Asian Ethnicities,rsubclassof.txt,Q89010591,,,,wd:Central Asian Ethnicities,,,wd,Q89010591
+West Asian Ethnicities,rsubclassof.txt,Q116868732,,,,wd:West Asian Ethnicities,,,wd,Q116868732
+European Ethnicities,rsubclassof.txt,Q394067,,,,wd:European Ethnicities,,,wd,Q394067
+Middle Eastern Ethnicities,rsubclassof.txt,Q100448011,,,,wd:Middle Eastern Ethnicities,,,wd,Q100448011
+Native American Ethnicities,rsubclassof.txt,Q36747,,,,wd:Native American Ethnicities,,,wd,Q36747
+Oceanian Ethnicities,rsubclassof.txt,Q2065556,,,,wd:Oceanian Ethnicities,,,wd,Q2065556
+Caribbean Ethnicities,rsubclassof.txt,Q17006555,,,,wd:Caribbean Ethnicities,,,wd,Q17006555
+Latin American Ethnicities,rsubclassof.txt,Q16799549,,,,wd:Latin American Ethnicities,,,wd,Q16799549
+Multiracial and Mixed Ethnicities,rsubclassof.txt,Q1378555,,,,wd:Multiracial and Mixed Ethnicities,,,wd,Q1378555
+Indigenous Peoples,rsubclassof.txt,Q103817,,,,wd:Indigenous Peoples,,,wd,Q103817
+Immigrant and Diaspora Ethnicities,rsubclassof.txt,Q12547146,,,,wd:Immigrant and Diaspora Ethnicities,,,wd,Q12547146
+Gross Domestic Product (GDP),rsubclassof.txt,Q12638,,,,wd:Gross Domestic Product (GDP),,,wd,Q12638
+Inflation,rsubclassof.txt,Q35865,,,,wd:Inflation,,,wd,Q35865
+Unemployment,rsubclassof.txt,Q41171,,,,wd:Unemployment,,,wd,Q41171
+Fiscal Policy,isinstance.txt,Q187021,,,,wd:Fiscal Policy,,,wd,Q187021
+Monetary Policy,isinstance.txt,Q178476,,,,wd:Monetary Policy,,,wd,Q178476
+Supply and Demand,isinstance.txt,Q166656,,,,wd:Supply and Demand,,,wd,Q166656
+Market Structures,isinstanceclass.txt,Q877707,,,,wd:Market Structures,,,wd,Q877707
+Consumer Behavior,isinstanceclass.txt,Q301468,,,,wd:Consumer Behavior,,,wd,Q301468
+Producer Behavior,,,,,,wd:Producer Behavior,,,wd,
+Elasticity,rsubclassof.txt,Q223639,,,,wd:Elasticity,,,wd,Q223639
+Capitalism,rsubclassof.txt,Q6206,,,,wd:Capitalism,,,wd,Q6206
+Socialism,rsubclassof.txt,Q7272,,,,wd:Socialism,,,wd,Q7272
+Mixed Economy,isinstance.txt,Q191675,,,,wd:Mixed Economy,,,wd,Q191675
+Command Economy,,,,,,wd:Command Economy,,,wd,
+Market Economy,rsubclassof.txt,Q179522,,,,wd:Market Economy,,,wd,Q179522
+Primary Sector,rpartof.txt,Q55640,,,,wd:Primary Sector,,,wd,Q55640
+Secondary Sector,rpartof.txt,Q55639,,,,wd:Secondary Sector,,,wd,Q55639
+Tertiary Sector,rpartof.txt,Q55638,,,,wd:Tertiary Sector,,,wd,Q55638
+Quaternary Sector,rpartof.txt,Q1200977,,,,wd:Quaternary Sector,,,wd,Q1200977
+Quinary Sector,rpartof.txt,Q3740272,,,,wd:Quinary Sector,,,wd,Q3740272
+Wages and Salaries,rsubclassof.txt,Q1742093,remuneration,,,wd:Wages and Salaries,,,wd,Q1742093
+Labor Markets,rsubclassof.txt,Q305186,,,,wd:Labor Markets,,,wd,Q305186
+Human Capital,rsubclassof.txt,Q165687,,,,wd:Human Capital,,,wd,Q165687
+Income Inequality,rsubclassof.txt,Q5055020,,,,wd:Income Inequality,,,wd,Q5055020
+Labor Unions,rsubclassof.txt,Q178790,,,,wd:Labor Unions,,,wd,Q178790
+Import,rsubclassof.txt,Q62955,,,,wd:Import,,,wd,Q62955
+Export,rsubclassof.txt,Q182722,,,,wd:Export,,,wd,Q182722
+Trade Balance,,,,,,wd:Trade Balance,,,wd,
+Trade Agreements,isinstance.txt,Q252550,,,,wd:Trade Agreements,,,wd,Q252550
+Tariffs,isinstance.txt,Q52389,,,,wd:Tariffs,,,wd,Q52389
+Stock Market,isinstance.txt,Q475000,,,,wd:Stock Market,,,wd,Q475000
+Bond Market,isinstance.txt,Q540626,,,,wd:Bond Market,,,wd,Q540626
+Foreign Exchange Market,isinstance.txt,Q66076,,,,wd:Foreign Exchange Market,,,wd,Q66076
+Commodity Market,,,,,,wd:Commodity Market,,,wd,
+Derivatives Market,isinstance.txt,Q1934287,,,,wd:Derivatives Market,,,wd,Q1934287
+Entrepreneurship,rsubclassof.txt,Q3908516,,,,wd:Entrepreneurship,,,wd,Q3908516
+Business Ethics,rsubclassof.txt,Q873451,,,,wd:Business Ethics,,,wd,Q873451
+Corporate Social Responsibility,rsubclassof.txt,Q218600,,,,wd:Corporate Social Responsibility,,,wd,Q218600
+Strategic Management,rsubclassof.txt,Q376657,,,,wd:Strategic Management,,,wd,Q376657
+Financial Management,rsubclassof.txt,Q4738155,,,,wd:Financial Management,,,wd,Q4738155
+Gross National Income (GNI),isinstance.txt,Q6803767,,,,wd:Gross National Income (GNI),,,wd,Q6803767
+Consumer Price Index (CPI),isinstance.txt,Q180687,,,,wd:Consumer Price Index (CPI),,,wd,Q180687
+Employment Rate,,,,,,wd:Employment Rate,,,wd,
+Productivity,rsubclassof.txt,Q2111958,,,,wd:Productivity,,,wd,Q2111958
+Balance of Trade,rsubclassof.txt,Q192796,,,,wd:Balance of Trade,,,wd,Q192796
+Sustainable Development,rsubclassof.txt,Q131201,,,,wd:Sustainable Development,,,wd,Q131201
+Infrastructure,rsubclassof.txt,Q121359,,,,wd:Infrastructure,,,wd,Q121359
+Foreign Aid,rsubclassof.txt,Q2827815,,,,wd:Foreign Aid,,,wd,Q2827815
+Poverty Alleviation,rsubclassof.txt,Q1824165,,,,wd:Poverty Alleviation,,,wd,Q1824165
+Technology Transfer,rsubclassof.txt,Q1061910,,,,wd:Technology Transfer,,,wd,Q1061910
+Nobility Titles,isinstance.txt,Q355567,,,,wd:Nobility Titles,,,wd,Q355567
+Academic Titles,isinstance.txt,Q3529618,,,,wd:Academic Titles,,,wd,Q3529618
+Military Titles,isinstance.txt,Q56019,,,,wd:MilitaryTitles,,,wd,Q56019
+Professional Titles,isinstance.txt,Q1326966,,,,wd:Professional Titles,,,wd,Q1326966
+Honorific Titles,isinstance.txt,Q3320743,,,,wd:Honorific Titles,,,wd,Q3320743
+Corporate Titles,isinstance.txt,Q11488158,,,,wd:Corporate Titles,,,wd,Q11488158

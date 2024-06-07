@@ -1,0 +1,7 @@
+SELECT ?item 
+WHERE 
+{
+  ?item wdt:P31 wd:Q4830453.
+  ?item wdt:P452 wd:__/\__.
+}
+LIMIT 50000

@@ -1,0 +1,1611 @@
+{
+    "Person": {
+  
+        "Medical": {
+          "General": [
+            "Doctor",
+            "Nurse",
+            "Pharmacist"
+          ],
+          "Specialists": [
+            "Dentist",
+            "Surgeon",
+            "Psychiatrist",
+            "Cardiologist",
+            "Pediatrician",
+            "Dermatologist"
+          ]
+        },
+        "Engineering": {
+          "General": [
+            "Engineer"
+          ],
+          "Specialists": [
+            "Civil Engineer",
+            "Mechanical Engineer",
+            "Electrical Engineer",
+            "Software Engineer",
+            "Chemical Engineer",
+            "Aerospace Engineer"
+          ]
+        },
+        "Politics": {
+          "General": [
+            "Politician"
+          ],
+          "Government Roles": [
+            "President",
+            "Prime Minister",
+            "Senator",
+            "Governor",
+            "Mayor",
+            "Councilor"
+          ],
+          "International Roles": [
+            "Diplomat",
+            "Ambassador"
+          ]
+        },
+        "Arts": {
+          "Performing Arts": [
+            "Actor",
+            "Singer",
+            "Dancer",
+            "Musician",
+            "Comedian"
+          ],
+          "Visual Arts": [
+            "Painter",
+            "Sculptor",
+            "Photographer",
+            "Illustrator",
+            "Printmaker"
+          ],
+          "Writing": [
+            "Author",
+            "Poet",
+            "Playwright",
+            "Screenwriter",
+            "Journalist"
+          ],
+          "Film & TV": [
+            "Director",
+            "Producer",
+            "Cinematographer",
+            "Editor"
+          ],
+          "Design Person": [
+            "Architect",
+            "Fashion Designer",
+            "Graphic Designer",
+            "Interior Designer"
+          ],
+          "Crafts Person": [
+            "Jeweler",
+            "Potter",
+            "Woodworker",
+            "Glassblower"
+          ]
+        },
+        "Sports Person": {
+          "Team Sports": [
+            "Footballer",
+            "Basketball Player",
+            "Cricket Player",
+            "Baseball Player",
+            "Rugby Player"
+          ],
+          "Individual Sports": [
+            "Tennis Player",
+            "Golfer",
+            "Swimmer",
+            "Gymnast",
+            "Cyclist"
+          ],
+          "Athletics": [
+            "Sprinter",
+            "Long Jumper",
+            "High Jumper",
+            "Marathon Runner",
+            "Discus Thrower"
+          ],
+          "Combat Sports": [
+            "Boxer",
+            "Martial Artist",
+            "Wrestler"
+          ],
+          "Water Sports": [
+            "Surfer",
+            "Swimmer",
+            "Diver",
+            "Rowing Athlete"
+          ],
+          "Winter Sports": [
+            "Skier",
+            "Snowboarder",
+            "Ice Skater",
+            "Bobsledder"
+          ],
+          "Extreme Sports": [
+            "Rock Climber",
+            "Skydiver",
+            "Surfer"
+          ]
+        },
+        "Sciences": {
+          "Life Sciences Person": [
+            "Biologist",
+            "Geneticist",
+            "Zoologist",
+            "Botanist"
+          ],
+          "Physical Sciences Person": [
+            "Physicist",
+            "Chemist",
+            "Astronomer",
+            "Geologist"
+          ],
+          "Mathematics & Statistics": [
+            "Mathematician",
+            "Statistician"
+          ],
+          "Computer Science Person": [
+            "Computer Scientist",
+            "Data Scientist",
+            "Software Developer"
+          ],
+          "Social Sciences Person": [
+            "Sociologist",
+            "Psychologist",
+            "Economist",
+            "Anthropologist"
+          ]
+        },
+        "Education": {
+          "Academic": [
+            "Professor",
+            "Researcher",
+            "Lecturer",
+            "Educational Administrator"
+          ],
+          "School": [
+            "Teacher",
+            "Principal",
+            "Counselor",
+            "Librarian"
+          ],
+          "Tutoring": [
+            "Private Tutor",
+            "Online Tutor"
+          ]
+        },
+        "Business Person": {
+          "Management": [
+            "CEO",
+            "Entrepreneur",
+            "Executive",
+            "Business Consultant"
+          ],
+          "Finance": [
+            "Accountant",
+            "Financial Analyst",
+            "Investment Banker",
+            "Financial Planner"
+          ],
+          "Marketing": [
+            "Marketing Manager",
+            "Market Researcher",
+            "Brand Manager",
+            "Digital Marketer"
+          ],
+          "Sales": [
+            "Sales Manager",
+            "Sales Representative"
+          ],
+          "Human Resources": [
+            "HR Manager",
+            "Recruiter"
+          ],
+          "Consulting Person": [
+            "Management Consultant",
+            "IT Consultant"
+          ],
+          "Real Estate": [
+            "Real Estate Agent",
+            "Property Manager"
+          ]
+        },
+        "Media": {
+          "Journalism": [
+            "Journalist",
+            "News Anchor",
+            "Reporter",
+            "Correspondent"
+          ],
+          "Broadcasting Person": [
+            "TV Presenter",
+            "Radio Host",
+            "Podcaster"
+          ],
+          "Writing": [
+            "Columnist",
+            "Editor",
+            "Copywriter"
+          ],
+          "Digital Media Person": [
+            "Social Media Influencer",
+            "Content Creator",
+            "YouTuber"
+          ],
+          "Public Relations": [
+            "PR Manager",
+            "PR Specialist"
+          ]
+        },
+        "Law": {
+          "Lawyers": [
+            "Corporate Lawyer",
+            "Criminal Defense Attorney",
+            "Family Lawyer",
+            "Immigration Lawyer"
+          ],
+          "Judiciary": [
+            "Judge",
+            "Magistrate",
+            "Justice of the Peace"
+          ],
+          "Legal Services": [
+            "Legal Consultant",
+            "Paralegal"
+          ]
+        },
+        "Public Services": {
+          "Police & Law Enforcement": [
+            "Police Officer",
+            "Detective",
+            "FBI Agent",
+            "Customs Officer"
+          ],
+          "Fire & Rescue Services": [
+            "Firefighter",
+            "Paramedic",
+            "Search and Rescue Specialist"
+          ],
+          "Military Person": [
+            "Soldier",
+            "Officer",
+            "General",
+            "Navy SEAL"
+          ],
+          "Aviation": [
+            "Pilot",
+            "Flight Attendant",
+            "Air Traffic Controller"
+          ]
+        },
+        "Culinary": {
+          "Chefs & Cooks": [
+            "Chef",
+            "Sous Chef",
+            "Pastry Chef",
+            "Line Cook"
+          ],
+          "Bakers & Pastry Chefs": [
+            "Baker",
+            "Pastry Chef"
+          ],
+          "Food Service": [
+            "Restaurant Manager",
+            "Waiter - Waitress",
+            "Bartender"
+          ],
+          "Sommeliers & Mixologists": [
+            "Sommelier",
+            "Mixologist"
+          ]
+        },
+        "Other Professions": {
+          "Architecture & Construction": [
+            "Architect",
+            "Construction Manager",
+            "Civil Engineer"
+          ],
+          "Transportation": [
+            "Driver",
+            "Pilot",
+            "Captain",
+            "Sailor"
+          ],
+          "Farming & Agriculture": [
+            "Farmer",
+            "Agricultural Scientist"
+          ],
+          "Skilled Trades": [
+            "Carpenter",
+            "Electrician",
+            "Plumber",
+            "Welder"
+          ],
+          "Entertainment": [
+            "Entertainer",
+            "Magician",
+            "Circus Performer"
+          ],
+          "Fitness & Wellness": [
+            "Personal Trainer",
+            "Yoga Instructor",
+            "Nutritionist"
+          ],
+          "Gaming": [
+            "Game Developer",
+            "Professional Gamer"
+          ],
+          "Social Work": [
+            "Social Worker",
+            "Social Work Counselor"
+          ],
+          "Environmental Services": [
+            "Environmental Scientist",
+            "Conservationist"
+          ],
+          "Religious Leaders": [
+            "Priest",
+            "Pastor",
+            "Imam",
+            "Rabbi"
+          ],
+          "Fashion & Beauty": [
+            "Fashion Designer",
+            "Makeup Artist",
+            "Hairstylist"
+          ],
+          "Automotive Person": [
+            "Mechanic",
+            "Auto Technician",
+            "Car Designer"
+          ],
+          "Sales & Retail": [
+            "Sales Associate",
+            "Store Manager"
+          ],
+          "Journalism & Publishing": [
+            "Editor",
+            "Proofreader",
+            "Literary Agent"
+          ],
+          "Science & Research": [
+            "Research Scientist",
+            "Lab Technician"
+          ]
+        }
+      }
+    ,
+    "Organization": {
+      "Business": {
+        "Corporate": [
+          "Conglomerate",
+          "Corporation",
+          "Startup",
+          "Small Business"
+        ],
+        "Financial": [
+          "Bank",
+          "Insurance Company",
+          "Investment Firm",
+          "Accounting Firm"
+        ],
+        "Retail": [
+          "Supermarket",
+          "Department Store",
+          "E-commerce",
+          "Franchise"
+        ],
+        "Hospitality": [
+          "Hotel",
+          "Restaurant",
+          "Catering Company",
+          "Resort"
+        ],
+        "Manufacturing": [
+          "Automotive",
+          "Electronics",
+          "Pharmaceutical",
+          "Food Processing"
+        ],
+        "Technology": [
+          "Software",
+          "Hardware",
+          "Internet",
+          "Telecommunications"
+        ],
+        "Media": [
+          "Broadcasting",
+          "Publishing",
+          "Film Production",
+          "News Agency"
+        ],
+        "Energy": [
+          "Oil & Gas",
+          "Renewable Energy",
+          "Utilities"
+        ],
+        "Transportation Organization": [
+          "Airlines",
+          "Shipping",
+          "Logistics",
+          "Public Transportation"
+        ],
+        "Consulting": null,
+        "Non-profit": null,
+        "Education": [
+          "School",
+          "University",
+          "Research Institute",
+          "Training Center"
+        ]
+      },
+      "Government": [
+        "Government Agency",
+        "International Organization",
+        "Military",
+        "Law Enforcement",
+        "Public Service"
+      ],
+      "Sports Organization": [
+        "Sports League",
+        "Sports Team",
+        "Sports Association",
+        "Fitness Center"
+      ],
+      "Media": [
+        "Broadcast Network",
+        "News Agency",
+        "Publishing Company",
+        "Digital Media"
+      ],
+      "Religious": [
+        "Religious Organization",
+        "Place of Worship"
+      ],
+      "Education": [
+        "School",
+        "University",
+        "Educational Institution"
+      ],
+      "Political": [
+        "Political Party",
+        "Government Organization",
+        "Campaign Organization"
+      ],
+      "Healthcare": [
+        "Hospital",
+        "Healthcare Provider",
+        "Medical Research Institute",
+        "Pharmaceutical Company"
+      ],
+      "Social": [
+        "Non-profit Organization",
+        "Community Organization",
+        "Charity Organization"
+      ],
+      "Art Organization": [
+        "Art Organization",
+        "Museum",
+        "Theater Company",
+        "Performing Arts Center"
+      ],
+      "Professional": [
+        "Trade Association",
+        "Professional Association",
+        "Chamber of Commerce"
+      ],
+      "Environmental": [
+        "Conservation Organization",
+        "Environmental Agency"
+      ],
+      "Technology": [
+        "Software Company",
+        "Hardware Company",
+        "Telecommunications Company"
+      ],
+      "Research": [
+        "Research Institute",
+        "Think Tank",
+        "Academic Research Group"
+      ]
+    },
+    "Location": {
+      "Geographical": {
+        "Continent": null,
+        "Country": null,
+        "Region": null,
+        "State": null,
+        "Province": null,
+        "County": null,
+        "District": null,
+        "City": null,
+        "Town": null,
+        "Village": null,
+        "Neighborhood": null,
+        "Street": null,
+        "Landform": [
+          "Mountain",
+          "Hill",
+          "Valley",
+          "Plateau",
+          "Canyon",
+          "Island",
+          "Archipelago",
+          "Peninsula",
+          "Cape",
+          "Lake",
+          "River",
+          "Waterfall",
+          "Glacier"
+        ],
+        "Body of Water": [
+          "Ocean",
+          "Sea",
+          "Gulf",
+          "Bay",
+          "Strait",
+          "Lake",
+          "River",
+          "Canal",
+          "Waterfall",
+          "Fjord"
+        ]
+      },
+      "Structural": [
+        "Building",
+        "Bridge",
+        "Tunnel",
+        "Monument",
+        "Park",
+        "Garden",
+        "Plaza",
+        "Square",
+        "Cemetery",
+        "Airport",
+        "Port",
+        "Train Station",
+        "Bus Station",
+        "Subway Station",
+        "Highway",
+        "Road",
+        "Street",
+        "Lane",
+        "Alley",
+        "Avenue",
+        "Boulevard",
+        "Market",
+        "Shopping Mall",
+        "Hotel",
+        "Resort",
+        "Hospital",
+        "School",
+        "University",
+        "Library",
+        "Museum",
+        "Stadium",
+        "Theater",
+        "Cinema",
+        "Restaurant",
+        "Café",
+        "Bar",
+        "Pub"
+      ],
+      "Astronomical": {
+        "Celestial Body": [
+          "Star",
+          "Planet",
+          "Moon",
+          "Asteroid",
+          "Comet",
+          "Meteor"
+        ],
+        "Galaxy": null,
+        "Constellation": null,
+        "Nebula": null,
+        "Black Hole": null,
+        "Quasar": null
+      },
+      "Natural": [
+        "Park",
+        "Forest",
+        "Jungle",
+        "Desert",
+        "Grassland",
+        "Wetland",
+        "Swamp",
+        "Savanna",
+        "Cave",
+        "Canyon",
+        "Volcano",
+        "Waterfall",
+        "Beach",
+        "Island",
+        "Reef",
+        "Archipelago",
+        "Mountain Range",
+        "Valley",
+        "Glacier",
+        "Tundra",
+        "Prairie",
+        "Oasis",
+        "Delta",
+        "Dune"
+      ],
+      "Artificial": {
+        "Infrastructure": [
+          "Road",
+          "Bridge",
+          "Tunnel",
+          "Railway",
+          "Airport",
+          "Port",
+          "Canal",
+          "Dam",
+          "Power Plant",
+          "Factory",
+          "Stadium",
+          "Arena",
+          "Amusement Park",
+          "Shopping Mall",
+          "Skyscraper",
+          "Tower",
+          "Monument"
+        ],
+        "Building": null,
+        "Residential": [
+          "House",
+          "Apartment Building",
+          "Condominium",
+          "Villa",
+          "Townhouse"
+        ],
+        "Commercial": [
+          "Office Building",
+          "Retail Store",
+          "Hotel",
+          "Restaurant",
+          "Cinema",
+          "Theater",
+          "Shopping Mall"
+        ],
+        "Institutional": [
+          "School",
+          "University",
+          "Library",
+          "Hospital",
+          "Museum",
+          "Government Building",
+          "Prison",
+          "Church",
+          "Mosque",
+          "Synagogue",
+          "Temple"
+        ]
+      },
+      "Underground": [
+        "Cave",
+        "Tunnel",
+        "Subway",
+        "Bunker"
+      ]
+    },
+    "Product": {
+      "Consumer Goods": {
+        "Food and Beverages": [
+          "Bakery",
+          "Dairy Products",
+          "Snacks",
+          "Beverages",
+          "Canned Food",
+          "Frozen Food",
+          "Confectionery",
+          "Spices and Seasonings",
+          "Baby Food"
+        ],
+        "Personal Care": [
+          "Cosmetics",
+          "Skincare",
+          "Haircare",
+          "Oral Care",
+          "Bath and Body",
+          "Fragrances",
+          "Hygiene Products"
+        ],
+        "Home Care": [
+          "Cleaning Products",
+          "Laundry Care",
+          "Air Fresheners",
+          "Dishwashing Products",
+          "Insecticides",
+          "Household Supplies"
+        ],
+        "Electronics Product": {
+          "Consumer Electronics": [
+            "Mobile Phones",
+            "Televisions",
+            "Audio Devices",
+            "Cameras",
+            "Gaming Consoles",
+            "Smart Home Devices"
+          ],
+          "Home Appliances": null,
+          "Personal Electronics": [
+            "Smartwatches",
+            "Fitness Trackers",
+            "Headphones",
+            "Earphones",
+            "Portable Speakers"
+          ]
+        },
+        "Fashion and Apparel": [
+          "Clothing",
+          "Footwear",
+          "Accessories",
+          "Jewelry",
+          "Bags and Luggage",
+          "Eyewear",
+          "Watches"
+        ],
+        "Home and Garden": [
+          "Furniture",
+          "Home Decor",
+          "Kitchenware",
+          "Bedding and Linens",
+          "Gardening Tools",
+          "Home Improvement",
+          "Appliances"
+        ],
+        "Sports and Fitness": [
+          "Sporting Goods",
+          "Exercise Equipment",
+          "Outdoor Gear",
+          "Athletic Apparel",
+          "Sports Shoes",
+          "Fitness Accessories"
+        ]
+      },
+      "Industrial Goods": [
+        "Machinery",
+        "Equipment",
+        "Tools",
+        "Vehicles",
+        "Construction Materials",
+        "Chemicals",
+        "Metals",
+        "Plastics"
+      ],
+      "Automotive Product": [
+        "Cars",
+        "Motorcycles",
+        "Commercial Vehicles",
+        "Auto Parts",
+        "Tires",
+        "Automotive Accessories"
+      ],
+      "Electronics Product": [
+        "Consumer Electronics",
+        "Industrial Electronics",
+        "Medical Devices",
+        "Communication Devices",
+        "Electronic Components",
+        "Semiconductor Devices"
+      ],
+      "Software Product": [
+        "Operating Systems",
+        "Productivity Software",
+        "Security Software",
+        "Graphics and Design Software",
+        "Multimedia Software",
+        "Utility Software",
+        "Gaming Software"
+      ],
+      "Entertainment Product": [
+        "Books",
+        "Movies",
+        "Music",
+        "Video Games",
+        "Toys and Games",
+        "Board Games",
+        "Collectibles"
+      ],
+      "Health and Wellness": [
+        "Pharmaceuticals",
+        "Dietary Supplements",
+        "Fitness Products",
+        "Medical Equipment",
+        "Personal Health Products",
+        "Wellness Services"
+      ],
+      "Home Improvement": [
+        "Power Tools",
+        "Hand Tools",
+        "Building Materials",
+        "Home Appliances",
+        "Lighting Fixtures",
+        "Plumbing Supplies",
+        "Electrical Supplies"
+      ],
+      "Fashion": [
+        "Clothing",
+        "Footwear",
+        "Accessories",
+        "Jewelry",
+        "Watches",
+        "Eyewear",
+        "Bags and Purses"
+      ],
+      "Food and Beverage": [
+        "Bakery Products",
+        "Dairy Products",
+        "Snacks",
+        "Beverages",
+        "Canned Food",
+        "Frozen Food",
+        "Confectionery",
+        "Spices and Seasonings"
+      ],
+      "Construction Materials": [
+        "Concrete",
+        "Cement",
+        "Bricks",
+        "Steel",
+        "Timber",
+        "Glass",
+        "Insulation Materials"
+      ],
+      "Cosmetics": [
+        "Skincare Products",
+        "Makeup Products",
+        "Hair Care Products",
+        "Fragrances",
+        "Personal Care Products",
+        "Beauty Tools",
+        "Nail Products"
+      ],
+      "Electrical Equipment": [
+        "Switches and Sockets",
+        "Wires and Cables",
+        "Transformers",
+        "Generators",
+        "Batteries",
+        "Power Distribution Units",
+        "Electric Motors"
+      ],
+      "Furniture": [
+        "Living Room Furniture",
+        "Bedroom Furniture",
+        "Dining Room Furniture",
+        "Office Furniture",
+        "Outdoor Furniture",
+        "Kids Furniture",
+        "Home Decor"
+      ],
+      "Personal Care": [
+        "Bath and Body Products",
+        "Oral Care Products",
+        "Hair Care Products",
+        "Skin Care Products",
+        "Feminine Hygiene Products",
+        "Men's Grooming Products",
+        "Fragrances"
+      ]
+    },
+    "Art": {
+      "Visual Art": [
+        "Painting",
+        "Drawing",
+        "Sculpture",
+        "Photography",
+        "Printmaking",
+        "Collage",
+        "Installation Art",
+        "Digital Art",
+        "Mixed Media"
+      ],
+      "Performing Art": {
+        "Theater": [
+          "Drama",
+          "Comedy",
+          "Musical Theatre",
+          "Improvisation",
+          "Puppetry",
+          "Opera",
+          "Physical Theatre"
+        ],
+        "Dance": [
+          "Ballet",
+          "Contemporary Dance",
+          "Hip Hop Dance",
+          "Latin Dance",
+          "Tap Dance",
+          "Folk Dance",
+          "Ballroom Dance"
+        ],
+        "Music": [
+          "Classical Music",
+          "Pop Music",
+          "Rock Music",
+          "Jazz Music",
+          "Hip Hop Music",
+          "Electronic Music",
+          "Country Music",
+          "Folk Music",
+          "World Music",
+          "Experimental Music"
+        ],
+        "Film": [
+          "Feature Film",
+          "Documentary Film",
+          "Animation",
+          "Short Film",
+          "Experimental Film",
+          "Silent Film"
+        ],
+        "Performing Art": null,
+        "Circus": null,
+        "Magic": null
+      },
+      "Literary Art": [
+        "Fiction",
+        "Non-Fiction",
+        "Poetry",
+        "Drama",
+        "Essays",
+        "Novels",
+        "Short Stories",
+        "Biography",
+        "Autobiography",
+        "Historical Fiction"
+      ],
+      "Crafts": [
+        "Pottery",
+        "Glass Art",
+        "Textile Art",
+        "Jewelry Making",
+        "Woodworking",
+        "Metalworking",
+        "Paper Craft",
+        "Ceramics",
+        "Bookbinding"
+      ],
+      "Design": [
+        "Graphic Design",
+        "Fashion Design",
+        "Industrial Design",
+        "Interior Design",
+        "Product Design",
+        "Web Design",
+        "Game Design",
+        "Architectural Design"
+      ],
+      "Digital Art": [
+        "Digital Painting",
+        "Computer Animation",
+        "Digital Photography",
+        "Digital Sculpture",
+        "Generative Art",
+        "Interactive Art"
+      ],
+      "Conceptual Art": null,
+      "Street Art": null,
+      "Installation Art": null,
+      "Land Art": null,
+      "Abstract Art": null,
+      "Contemporary Art": null,
+      "Pop Art": null,
+      "Surrealism": null,
+      "Expressionism": null,
+      "Impressionism": null,
+      "Cubism": null,
+      "Realism": null,
+      "Renaissance Art": null,
+      "Baroque Art": null,
+      "Gothic Art": null,
+      "Ancient Art": null,
+      "Islamic Art": null
+    },
+    "Time": {
+      "Geological Time": [
+        "Eon",
+        "Era",
+        "Period",
+        "Epoch",
+        "Age"
+      ],
+      "Unit of Time": null,
+      "Historical Period": null
+    },
+    "Science": {
+      "Natural Sciences": {
+        "Physical Sciences": {
+          "Physics": [
+            "Classical Mechanics",
+            "Quantum Mechanics",
+            "Thermodynamics",
+            "Electromagnetism",
+            "Optics",
+            "Particle Physics",
+            "Astrophysics",
+            "Nuclear Physics"
+          ],
+          "Chemistry": [
+            "Organic Chemistry",
+            "Inorganic Chemistry",
+            "Physical Chemistry",
+            "Analytical Chemistry",
+            "Biochemistry",
+            "Environmental Chemistry",
+            "Polymer Chemistry"
+          ],
+          "Earth Sciences": {
+            "Geology": [
+              "Mineralogy",
+              "Petrology",
+              "Sedimentology",
+              "Structural Geology",
+              "Volcanology",
+              "Geophysics",
+              "Geochemistry"
+            ],
+            "Meteorology": null,
+            "Oceanography": null,
+            "Climatology": null,
+            "Geomorphology": null,
+            "Paleontology": null,
+            "Seismology": null
+          },
+          "Astronomy": [
+            "Planetary Science",
+            "Stellar Astronomy",
+            "Cosmology",
+            "Astrobiology",
+            "Astrophysics",
+            "Astrodynamics"
+          ]
+        },
+        "Life Sciences": {
+          "Biology": [
+            "Molecular Biology",
+            "Cell Biology",
+            "Genetics",
+            "Microbiology",
+            "Ecology",
+            "Evolutionary Biology",
+            "Botany",
+            "Zoology",
+            "Anatomy",
+            "Physiology"
+          ],
+          "Biochemistry": [
+            "Proteins",
+            "Enzymes",
+            "Metabolism",
+            "Nucleic Acids",
+            "Carbohydrates",
+            "Lipids"
+          ],
+          "Neuroscience": [
+            "Neuroanatomy",
+            "Neurophysiology",
+            "Cognitive Neuroscience",
+            "Behavioral Neuroscience",
+            "Developmental Neuroscience",
+            "Computational Neuroscience"
+          ],
+          "Ecology": [
+            "Population Ecology",
+            "Community Ecology",
+            "Ecosystem Ecology",
+            "Conservation Biology",
+            "Behavioral Ecology",
+            "Evolutionary Ecology",
+            "Landscape Ecology"
+          ],
+          "Genetics": [
+            "Mendelian Genetics",
+            "Molecular Genetics",
+            "Population Genetics",
+            "Epigenetics",
+            "Genomic Medicine",
+            "Genetic Engineering"
+          ],
+          "Anatomy": [
+            "Human Anatomy",
+            "Comparative Anatomy",
+            "Developmental Anatomy",
+            "Histology",
+            "Neuroanatomy"
+          ]
+        }
+      },
+      "Social Sciences": {
+        "Psychology": [
+          "Cognitive Psychology",
+          "Developmental Psychology",
+          "Social Psychology",
+          "Clinical Psychology",
+          "Neuropsychology",
+          "Educational Psychology",
+          "Industrial-Organizational Psychology"
+        ],
+        "Sociology": [
+          "Social Theory",
+          "Criminology",
+          "Demography",
+          "Social Stratification",
+          "Social Movements",
+          "Political Sociology",
+          "Urban Sociology"
+        ],
+        "Anthropology": [
+          "Cultural Anthropology",
+          "Archaeology",
+          "Linguistic Anthropology",
+          "Biological Anthropology",
+          "Medical Anthropology",
+          "Forensic Anthropology"
+        ],
+        "Economics": [
+          "Microeconomics",
+          "Macroeconomics",
+          "International Economics",
+          "Development Economics",
+          "Labor Economics",
+          "Behavioral Economics"
+        ],
+        "Political Science": [
+          "Comparative Politics",
+          "International Relations",
+          "Political Theory",
+          "Public Administration",
+          "Political Economy",
+          "Public Policy"
+        ]
+      },
+      "Formal Sciences": {
+        "Mathematics": [
+          "Algebra",
+          "Geometry",
+          "Calculus",
+          "Statistics",
+          "Number Theory",
+          "Topology",
+          "Probability Theory"
+        ],
+        "Computer Science": [
+          "Artificial Intelligence",
+          "Data Science",
+          "Algorithms",
+          "Database Systems",
+          "Computer Networks",
+          "Operating Systems",
+          "Software Engineering"
+        ],
+        "Logic": [
+          "Symbolic Logic",
+          "Mathematical Logic",
+          "Modal Logic",
+          "Non-Classical Logic",
+          "Philosophical Logic",
+          "Proof Theory"
+        ],
+        "Statistics": [
+          "Descriptive Statistics",
+          "Inferential Statistics",
+          "Regression Analysis",
+          "Experimental Design",
+          "Statistical Modeling",
+          "Multivariate Analysis"
+        ]
+      },
+      "Applied Sciences": {
+        "Engineering": [
+          "Civil Engineering",
+          "Mechanical Engineering",
+          "Electrical Engineering",
+          "Chemical Engineering",
+          "Aerospace Engineering",
+          "Biomedical Engineering",
+          "Computer Engineering"
+        ],
+        "Medicine": [
+          "Anatomy",
+          "Physiology",
+          "Pharmacology",
+          "Pathology",
+          "Microbiology",
+          "Epidemiology",
+          "Medical Imaging"
+        ],
+        "Agriculture": [
+          "Crop Science",
+          "Animal Science",
+          "Horticulture",
+          "Soil Science",
+          "Agricultural Economics",
+          "Agroecology",
+          "Plant Breeding"
+        ],
+        "Environmental Science": [
+          "Ecology",
+          "Conservation Biology",
+          "Climate Science",
+          "Environmental Chemistry",
+          "Environmental Policy",
+          "Geographic Information Systems (GIS)"
+        ],
+        "Architecture": [
+          "Architectural Design",
+          "Building Materials Science",
+          "Structural Engineering",
+          "Urban Planning",
+          "Sustainable Architecture",
+          "Interior Design",
+          "Landscape Architecture"
+        ],
+        "Information Science": [
+          "Information Retrieval",
+          "Database Management",
+          "Data Analysis",
+          "Human-Computer Interaction",
+          "Digital Libraries",
+          "Knowledge Management"
+        ]
+      }
+    },
+    "Media": {
+      "Print Media": [
+        "Newspapers",
+        "Magazines",
+        "Journals"
+      ],
+      "Broadcast Media": {
+        "Television": [
+          "Networks",
+          "Channels"
+        ],
+        "Radio": [
+          "AM Stations",
+          "FM Stations"
+        ]
+      },
+      "Digital Media": {
+        "Online News": null,
+        "Blogs": null,
+        "Podcasts": null,
+        "Social Media": [
+          "Social Networking Sites",
+          "Microblogging Platforms",
+          "Video Sharing Platforms",
+          "Image Sharing Platforms"
+        ],
+        "Video Streaming": [
+          "Video-on-Demand (VOD)",
+          "Live Streaming Platforms"
+        ],
+        "Music Streaming": null,
+        "E-books": null,
+        "Online Magazines": null,
+        "Online Forums": null
+      },
+      "Film": [
+        "Film Genres",
+        "Production Studios",
+        "Film Festivals"
+      ],
+      "Music": [
+        "Genres",
+        "Record Labels",
+        "Music Festivals"
+      ],
+      "Art": {
+        "Visual Art": [
+          "Painting",
+          "Sculpture",
+          "Photography"
+        ],
+        "Performing Art": [
+          "Theater",
+          "Dance",
+          "Opera"
+        ]
+      },
+      "Advertising": [
+        "Print Advertising",
+        "Television Advertising",
+        "Online Advertising",
+        "Outdoor Advertising",
+        "Radio Advertising"
+      ]
+    },
+    "Awards": {
+      "Academic Awards": [
+        "Scholarships",
+        "Research Grants",
+        "Fellowships"
+      ],
+      "Artistic Awards": [
+        "Literary Awards",
+        "Film Awards",
+        "Music Awards"
+      ],
+      "Sports Awards": [
+        "Olympic Medals",
+        "Athletic Achievements",
+        "Team Championships"
+      ],
+      "Entertainment Awards": [
+        "Film Awards",
+        "Television Awards",
+        "Music Awards"
+      ],
+      "Literary Awards": [
+        "Nobel Prize in Literature",
+        "Pulitzer Prize",
+        "Booker Prize"
+      ],
+      "Scientific Awards": [
+        "Nobel Prizes",
+        "Fields Medals",
+        "Breakthrough Prizes"
+      ],
+      "Humanitarian Awards": [
+        "Nobel Peace Prize",
+        "Gandhi Peace Prize",
+        "UNESCO Peace Prize"
+      ],
+      "Military Awards": null,
+      "Lifetime Achievement Awards": null,
+      "Honorary Awards": null,
+      "Special Recognition Awards": null
+    },
+    "Educational Degrees": {
+      "Undergraduate Degrees": [
+        "Associate's Degree",
+        "Bachelor's Degree"
+      ],
+      "Graduate Degrees": {
+        "Master's Degree": null,
+        "Professional Degrees": [
+          "Doctor of Medicine (M.D.)",
+          "Juris Doctor (J.D.)",
+          "Doctor of Pharmacy (Pharm.D.)"
+        ],
+        "Research Degrees": [
+          "Master of Philosophy (M.Phil.)",
+          "Doctor of Philosophy (Ph.D.)",
+          "Doctor of Science (D.Sc.)"
+        ]
+      },
+      "Postgraduate Degrees": [
+        "Postdoctoral Degree",
+        "Professional Certifications",
+        "Higher Doctorate"
+      ],
+      "Vocational Degrees": [
+        "Diploma Programs",
+        "Certificate Programs",
+        "Trade Apprenticeships"
+      ],
+      "Honorary Degrees": null
+    },
+    "Languages": {
+      "Natural Languages": {
+        "Indo-European Languages": [
+          "Germanic Languages",
+          "Romance Languages",
+          "Slavic Languages"
+        ],
+        "Sino-Tibetan Languages": null,
+        "Afro-Asiatic Languages": null,
+        "Dravidian Languages": null,
+        "Austronesian Languages": null,
+        "Niger-Congo Languages": null
+      },
+      "Constructed Languages": [
+        "Artificial Languages",
+        "Programming Languages"
+      ],
+      "Sign Languages": null,
+      "Ancient Languages": null
+    },
+    "Law": {
+      "Legal Systems": null,
+      "Legal Branches": [
+        "Civil Law",
+        "Criminal Law",
+        "Constitutional Law",
+        "Administrative Law",
+        "International Law"
+      ],
+      "Legal Documents": [
+        "Legislation",
+        "Regulations",
+        "Contracts",
+        "Treaties",
+        "Case Law"
+      ],
+      "Legal Concepts": [
+        "Legal Rights",
+        "Legal Duties",
+        "Liability",
+        "Jurisdiction",
+        "Legal Person"
+      ],
+      "Legal Professions": [
+        "Lawyers",
+        "Judges",
+        "Legal Scholars",
+        "Legal Assistants"
+      ],
+      "Legal Entities": [
+        "Corporations",
+        "Partnerships",
+        "Nonprofit Organizations",
+        "Government Agencies",
+        "Trade Unions"
+      ],
+      "Intellectual Property": [
+        "Patents",
+        "Trademarks",
+        "Copyrights",
+        "Trade Secrets",
+        "Intellectual Property Licensing"
+      ],
+      "Criminal Justice System": [
+        "Law Enforcement",
+        "Prosecution",
+        "Defense",
+        "Corrections",
+        "Probation and Parole"
+      ]
+    },
+    "Religion": {
+      "Religious Beliefs": [
+        "Monotheistic Religions",
+        "Polytheistic Religions",
+        "Pantheistic Religions",
+        "Nontheistic Religions"
+      ],
+      "Religious Texts": null,
+      "Religious Figures": [
+        "Prophets",
+        "Founders",
+        "Religious Leaders",
+        "Saints",
+        "Gurus"
+      ],
+      "Places of Worship": [
+        "Temple",
+        "Churche",
+        "Mosque",
+        "Synagogue",
+        "Gurdwara"
+      ],
+      "Religious Practices": [
+        "Rituals",
+        "Prayers",
+        "Meditation",
+        "Sacrifices",
+        "Pilgrimages"
+      ],
+      "Religious Festivals": null,
+      "Religious Symbols": null,
+      "Religious Sects": null,
+      "Religious Institutions": [
+        "Religious Organizations",
+        "Monastic Orders",
+        "Educational Institutions",
+        "Missionary Organizations",
+        "Charitable Organizations"
+      ],
+      "Afterlife Concepts": null,
+      "Religious Ethics": null,
+      "Religious Mythology": null,
+      "Religious Art and Architecture": null
+    },
+    "Ethnicity": {
+      "African Ethnicities": null,
+      "Asian Ethnicities": [
+        "East Asian Ethnicities",
+        "Southeast Asian Ethnicities",
+        "South Asian Ethnicities",
+        "Central Asian Ethnicities",
+        "West Asian Ethnicities"
+      ],
+      "European Ethnicities": null,
+      "Middle Eastern Ethnicities": null,
+      "Native American Ethnicities": null,
+      "Oceanian Ethnicities": null,
+      "Caribbean Ethnicities": null,
+      "Latin American Ethnicities": null,
+      "Multiracial and Mixed Ethnicities": null,
+      "Indigenous Peoples": null,
+      "Immigrant and Diaspora Ethnicities": null
+    },
+    "Economy": {
+      "Macroeconomics": [
+        "Gross Domestic Product (GDP)",
+        "Inflation",
+        "Unemployment",
+        "Fiscal Policy",
+        "Monetary Policy"
+      ],
+      "Microeconomics": [
+        "Supply and Demand",
+        "Market Structures",
+        "Consumer Behavior",
+        "Producer Behavior",
+        "Elasticity"
+      ],
+      "Economic Systems": [
+        "Capitalism",
+        "Socialism",
+        "Mixed Economy",
+        "Command Economy",
+        "Market Economy"
+      ],
+      "Economic Sectors": [
+        "Primary Sector",
+        "Secondary Sector",
+        "Tertiary Sector",
+        "Quaternary Sector",
+        "Quinary Sector"
+      ],
+      "Labor Economics": [
+        "Wages and Salaries",
+        "Labor Markets",
+        "Human Capital",
+        "Income Inequality",
+        "Labor Unions"
+      ],
+      "International Trade": [
+        "Import",
+        "Export",
+        "Trade Balance",
+        "Trade Agreements",
+        "Tariffs"
+      ],
+      "Financial Markets": [
+        "Stock Market",
+        "Bond Market",
+        "Foreign Exchange Market",
+        "Commodity Market",
+        "Derivatives Market"
+      ],
+      "Business and Corporate Concepts": [
+        "Entrepreneurship",
+        "Business Ethics",
+        "Corporate Social Responsibility",
+        "Strategic Management",
+        "Financial Management"
+      ],
+      "Economic Indicators": [
+        "Gross National Income (GNI)",
+        "Consumer Price Index (CPI)",
+        "Employment Rate",
+        "Productivity",
+        "Balance of Trade"
+      ],
+      "Economic Development": [
+        "Sustainable Development",
+        "Infrastructure",
+        "Foreign Aid",
+        "Poverty Alleviation",
+        "Technology Transfer"
+      ]
+    },
+    "Titles": {
+      "Nobility Titles": null,
+      "Academic Titles": null,
+      "Military Titles": null,
+      "Professional Titles": null,
+      "Honorific Titles": null,
+      "Corporate Titles": null
+    }
+  }
